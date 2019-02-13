@@ -1,0 +1,1494 @@
+,name,price,rating,review_count,category,city,latitude,longitude
+0,Jajaja,2.0,4.5,580,vegan,new york,40.7141530317142,-73.9904247969389
+1,Spicy Moon,1.9059405940594059,5.0,26,vegan,new york,40.72674,-73.98722
+2,Le Botaniste,1.9059405940594059,4.5,78,vegan,new york,40.7204278,-74.0002028
+3,Ramen Hood,2.0,4.5,102,vegan,new york,40.7223112701284,-73.9973774072879
+4,Bali Kitchen,2.0,4.5,96,vegan,new york,40.725371,-73.987617
+5,Original Buddha Bodai Kosher Vegetarian Restaurant,2.0,4.0,909,vegan,new york,40.7138543,-73.9989484
+6,Divya's Kitchen,2.0,4.5,262,vegan,new york,40.72378,-73.98849
+7,Cocoron,2.0,4.0,940,vegan,new york,40.72031,-73.99305
+8,May Kaidee East Broadway,1.9059405940594059,4.5,17,vegan,new york,40.7140637,-73.987464979291
+9,by CHLOE. Seaport District,1.9059405940594059,3.5,30,vegan,new york,40.7065318,-74.0041342
+10,NoodleLove,1.9059405940594059,4.0,34,vegan,new york,40.72102,-73.9956
+11,Govinda's Vegetarian,1.0,4.5,160,vegan,new york,40.6876177700883,-73.9821957150399
+12,Ladybird,2.0,4.0,202,vegan,new york,40.726769311104,-73.9847712789363
+13,by CHLOE. SOHO,2.0,4.0,273,vegan,new york,40.72277,-73.9972
+14,The Shakespeare,2.0,4.0,334,vegan,new york,40.7506062,-73.9801755
+15,Dirt Candy,3.0,4.0,555,vegan,new york,40.7179075,-73.9907183
+16,Urban Vegan Kitchen,2.0,4.0,289,vegan,new york,40.7302,-74.00368
+17,Goemon,2.0,4.0,114,vegan,new york,40.72083,-73.99509
+18,Hartbreakers,1.9059405940594059,4.5,31,vegan,new york,40.7017552430266,-73.9226628918423
+19,Bar Verde,2.0,4.5,135,vegan,new york,40.7260849061034,-73.9897361397743
+20,XYST,2.0,4.5,183,vegan,new york,40.73865,-73.99451
+21,Thrills by CHLOE.,1.9059405940594059,4.5,5,vegan,new york,40.72662,-73.99435
+22,Luanne's Wild Ginger,2.0,4.5,52,vegan,new york,40.6896,-73.96982
+23,Delice & Sarrasin,2.0,4.5,321,vegan,new york,40.73377,-74.00065
+24,Ube Kitchen,1.0,4.0,21,vegan,new york,40.7213689,-73.9607664
+25,Bunna Cafe,2.0,4.5,513,vegan,new york,40.705042,-73.928078
+26,Champs Diner,2.0,4.0,1280,vegan,new york,40.7084397372605,-73.9407808520115
+27,Paulie Gee's,2.0,4.5,1150,vegan,new york,40.729546,-73.958568
+28,Kimbap Lab,2.0,5.0,28,vegan,new york,40.71611,-73.95974
+29,The Little Beet,2.0,4.0,106,vegan,new york,40.74393,-73.9887
+30,Greedi Vegan,2.0,4.5,91,vegan,new york,40.6763513,-73.9523247
+31,Beyond Sushi,2.0,4.5,888,vegan,new york,40.7329,-73.98588
+32,Avant Garden - Brooklyn,1.9059405940594059,4.5,27,vegan,new york,40.7106201,-73.9583207
+33,LuAnne's Wild Ginger All-Asian Vegan,2.0,4.0,329,vegan,new york,40.687936,-73.989925
+34,Awash Ethiopian Restaurant,2.0,3.5,299,vegan,new york,40.72658,-73.98682
+35,Red Bamboo,2.0,4.0,1622,vegan,new york,40.7313183707867,-74.0003546456233
+36,Jones Wood Foundry,2.0,4.0,577,vegan,new york,40.7703854340118,-73.9535711917713
+37,by CHLOE. Williamsburg,2.0,4.0,180,vegan,new york,40.71524,-73.95946
+38,Next Level Burger,2.0,4.0,117,vegan,new york,40.6866202166365,-73.978229173433
+39,Nix,3.0,4.0,436,vegan,new york,40.73323,-73.99359
+40,Double Zero,2.0,4.0,379,vegan,new york,40.7261288,-73.9896645
+41,Two Tablespoons,2.0,3.5,34,vegan,new york,40.6908759,-73.9828655
+42,Mother of Pearl,2.0,4.0,358,vegan,new york,40.72563,-73.98403
+43,Toad Style,2.0,4.0,313,vegan,new york,40.68688,-73.92322
+44,ABCV,3.0,4.0,353,vegan,new york,40.7379039812942,-73.9888740099824
+45,Orchard Grocer,2.0,4.5,138,vegan,new york,40.717731,-73.990165
+46,Rip's Malt Shop,2.0,4.5,58,vegan,new york,40.69756,-73.9719
+47,Secret Garden,1.9059405940594059,4.5,2,vegan,new york,40.6837053,-73.9349975
+48,Riverdel,2.0,4.5,103,vegan,new york,40.67337,-73.96307
+49,Plant Food + Wine,1.9059405940594059,4.5,31,vegan,new york,40.7261989,-73.989751
+50,Happy Zoe Vegan Bakery,1.0,4.5,54,vegan,new york,40.724233,-73.949646
+51,Blossom,3.0,4.0,965,vegan,new york,40.745513,-74.002365
+52,Sacred Chow,2.0,4.0,524,vegan,new york,40.72959,-73.99944
+53,Beyond Sushi,2.0,4.5,19,vegan,new york,40.706433,-74.00766
+54,Green Symphony,1.0,4.0,79,vegan,new york,40.738083,-73.9968139
+55,Little Choc Apothecary,2.0,4.5,302,vegan,new york,40.71192,-73.95721
+56,Kajitsu,4.0,4.0,208,vegan,new york,40.7498614,-73.9777215
+57,Avant Garden,3.0,4.5,268,vegan,new york,40.7261499,-73.98402
+58,Dosa Royale,2.0,3.5,201,vegan,new york,40.689244,-73.968634
+59,Monk's Meats,2.0,4.0,14,vegan,new york,40.721483,-73.962117
+60,VSPOT,2.0,3.5,633,vegan,new york,40.67808,-73.9795
+61,Buntopia,2.0,4.5,124,vegan,new york,40.69598,-73.93398
+62,Black Flamingo,2.0,4.0,168,vegan,new york,40.710437,-73.953916
+63,Peacefood Cafe Downtown,2.0,4.0,669,vegan,new york,40.7332670924819,-73.9929751334153
+64,American Vegan,1.9059405940594059,4.5,28,vegan,new york,40.678104,-73.96896
+65,My Pie Pizzeria Romana,1.0,4.5,619,vegan,new york,40.7608512,-73.9694809
+66,The Cinnamon Snail,2.0,4.0,66,vegan,new york,40.7065047,-74.0077715
+67,Bodhi Kosher Vegetarian Restaurant,2.0,4.0,286,vegan,new york,40.71641,-73.99931
+68,Wild Ginger,2.0,3.5,125,vegan,new york,40.718859,-73.955371
+69,The Cinnamon Snail,2.0,4.0,442,vegan,new york,40.7503205369552,-73.9919686739076
+70,Beyond Sushi,2.0,4.0,17,vegan,new york,40.72216,-73.99629
+71,Go Zen,2.0,4.0,540,vegan,new york,40.7313398845326,-74.0005102638063
+72,Screamer's Pizzeria,1.0,4.0,279,vegan,new york,40.7235518,-73.95065
+73,The Organic Grill,2.0,3.5,403,vegan,new york,40.72737,-73.98578
+74,Café Beit,1.0,4.5,79,vegan,new york,40.718678,-73.9571094
+75,Jungle Cafe,2.0,4.0,207,vegan,new york,40.730358,-73.954885
+76,Blockheads,2.0,3.5,183,vegan,new york,40.73123,-73.98905
+77,Juice Press,1.9059405940594059,3.0,8,vegan,new york,40.70259,-73.98885
+78,Confectionery,2.0,5.0,93,vegan,new york,40.72732,-73.98305
+79,Pickle Shack,1.9059405940594059,5.0,3,vegan,new york,40.6568509,-74.0069049
+80,Franchia Vegan Cafe,2.0,4.0,835,vegan,new york,40.7474712051298,-73.9812423408763
+81,Vegan Shop Up,2.0,4.5,26,vegan,new york,40.7054685975945,-73.9328064747926
+82,Fermento,2.0,5.0,24,vegan,new york,40.6917733468969,-73.9399936793105
+83,Hotel Tortuga,2.0,3.5,469,vegan,new york,40.73239,-73.98545
+84,Marty's V Burger,1.0,4.5,199,vegan,new york,40.7418634775278,-73.9825710043089
+85,Luanne's Wild Ginger Franklin,2.0,4.0,54,vegan,new york,40.67538992914,-73.9564200863242
+86,Ital Kitchen,2.0,4.5,113,vegan,new york,40.66962,-73.95804
+87,Pine Box Rock Shop,2.0,4.0,213,vegan,new york,40.70528,-73.93267
+88,Loving Hut,2.0,4.0,304,vegan,new york,40.712446359218,-73.9411109479789
+89,Clementine Bakery,1.0,4.0,406,vegan,new york,40.68756,-73.9596
+90,Norman Cafe,1.9059405940594059,5.0,2,vegan,new york,40.7256416,-73.9515314
+91,by CHLOE. Rockefeller Center,2.0,4.0,275,vegan,new york,40.757872,-73.97908
+92,Vegetarian Dim Sum House,1.0,3.5,525,vegan,new york,40.715023,-73.998161
+93,Bive,1.9059405940594059,4.5,19,vegan,new york,40.71844,-73.99018
+94,Pure Ktchn,2.0,4.5,208,vegan,new york,40.76053,-73.98992
+95,Beyond Sushi,2.0,4.5,572,vegan,new york,40.76331,-73.97717
+96,Candle 79,3.0,4.0,1261,vegan,new york,40.774627,-73.958697
+97,The Little Beet,2.0,3.5,135,vegan,new york,40.7580047784853,-73.9740217477083
+98,Hangawi,3.0,4.0,1063,vegan,new york,40.746737,-73.984662
+99,Loco Coco,2.0,4.0,164,vegan,new york,40.76512,-73.96587
+100,My Pie,1.0,4.5,111,vegan,new york,40.77823,-73.98117
+101,Vinnie's Pizzeria,1.0,4.0,607,vegan,new york,40.718925,-73.956878
+102,Vegan Love,1.9059405940594059,4.5,9,vegan,new york,40.7285173652335,-73.9832536018494
+103,Beyond Sushi,2.0,4.5,312,vegan,new york,40.75247,-73.98845
+104,Acai Berry,2.0,4.0,76,vegan,new york,40.7243724444337,-73.9510177347399
+105,Sol Sips,1.0,4.5,59,vegan,new york,40.6991512984966,-73.9225060558197
+106,The Bean,1.0,4.0,470,vegan,new york,40.7257617915237,-73.9896519938831
+107,Chez Alex,1.0,4.0,116,vegan,new york,40.68753,-73.9237799
+108,Magic Mix Juicery,2.0,4.0,164,vegan,new york,40.70961,-74.006735
+109,Seasoned Vegan,2.0,4.0,954,vegan,new york,40.80064,-73.952804
+110,Kanan Indian Restaurant,2.0,4.0,117,vegan,new york,40.6716593194782,-73.9908374121948
+111,Hungry Like the Wolf,1.9059405940594059,4.0,1,vegan,new york,40.73964,-74.04271
+112,Sans,1.9059405940594059,3.5,31,vegan,new york,40.68063,-73.99446
+113,The Candle Cafe,2.0,4.0,847,vegan,new york,40.771434,-73.959146
+114,Juicy Lucy Juice Bar,1.0,4.0,115,vegan,new york,40.72526,-73.9843
+115,The Bean,1.0,3.5,350,vegan,new york,40.72827,-73.98482
+116,Terri,2.0,4.0,827,vegan,new york,40.74252,-73.9923
+117,Erin McKenna's Bakery,1.0,3.5,1044,vegan,new york,40.718132,-73.989604
+118,Mimi's Hummus,2.0,4.0,327,vegan,new york,40.64035,-73.9667
+119,Caravan of Dreams,2.0,3.5,498,vegan,new york,40.7261704450824,-73.9856490472387
+120,Blossom on Columbus,2.0,4.0,312,vegan,new york,40.7853146,-73.9728638
+121,Juice Press,1.9059405940594059,5.0,2,vegan,new york,40.6925,-73.99141
+122,The Family Store,2.0,4.5,154,vegan,new york,40.63541,-74.02589
+123,Pasta Wiz Express,2.0,3.5,38,vegan,new york,40.73065,-74.00007
+124,Happy Vegan,1.9059405940594059,5.0,1,vegan,new york,40.71744,-73.99186
+125,Sweets by CHLOE.,2.0,3.5,154,vegan,new york,40.729179,-74.00097
+126,Brooklyn Whiskers - Greenpoint,1.0,4.5,18,vegan,new york,40.7333354675873,-73.9546906898997
+127,The Chick Shop,1.9059405940594059,4.5,35,vegan,new york,40.75537,-73.97054
+128,Juice Press,2.0,3.5,62,vegan,new york,40.725876,-74.0013047
+129,Body & Soul Bakeshop,1.0,4.0,62,vegan,new york,40.73644,-73.99099
+130,Beyond Sushi,2.0,4.5,199,vegan,new york,40.7424675258773,-74.0066324867859
+131,Juice Press,2.0,2.5,12,vegan,new york,40.7198143005371,-73.9882125854492
+132,I Am Thai Restaurant,2.0,4.0,257,vegan,new york,40.7445421133747,-73.9154577255249
+133,No5nyc,2.0,4.0,92,vegan,new york,40.75447,-73.92456
+134,Peacefood Cafe,2.0,4.0,1173,vegan,new york,40.785326,-73.97713
+135,Blockheads,2.0,3.0,412,vegan,new york,40.7551,-73.96802
+136,Souen,2.0,3.5,304,vegan,new york,40.7266693115234,-73.9873733520508
+137,Brooklyn Whiskers Bakery,1.0,4.0,127,vegan,new york,40.69555,-73.92947
+138,VLife,2.0,4.0,313,vegan,new york,40.7481116799498,-73.992917656414
+139,Grilled Cheese Incident,1.9059405940594059,5.0,4,vegan,new york,40.7082673,-73.9197019
+140,Mana,2.0,4.0,149,vegan,new york,40.79128,-73.97279
+141,Village Natural,2.0,3.5,132,vegan,new york,40.735622,-74.000244
+142,Areppas,1.0,3.0,109,vegan,new york,40.76052,-73.96756
+143,The Bean,2.0,3.5,91,vegan,new york,40.7297657525903,-73.9895278155579
+144,Ayurveda Cafe,2.0,4.0,293,vegan,new york,40.79305,-73.97132
+145,Pet Shop,2.0,4.0,190,vegan,new york,40.72123,-74.04592
+146,Benny's Burritos,2.0,3.5,709,vegan,new york,40.7380740387279,-74.002123778491
+147,Blossom Du Jour,2.0,4.0,370,vegan,new york,40.759613,-73.992088
+148,Lifethyme,3.0,4.0,221,vegan,new york,40.73378,-73.99906
+149,The Little Beet,2.0,3.5,338,vegan,new york,40.7610287,-73.982579
+150,Ginger House,2.0,4.0,108,vegan,new york,40.6357,-73.97555
+151,More Life Cafe Vegan,2.0,5.0,28,vegan,new york,40.7209165821707,-74.0870564611999
+152,Juice Press,2.0,3.5,67,vegan,new york,40.729692,-73.9863881
+153,The Little Beet,2.0,3.5,68,vegan,new york,40.7499719,-73.9921676
+154,Trans Am Cafe,1.0,4.5,58,vegan,new york,40.697052,-73.906219
+155,Atlas Cafe & Bakery,1.0,3.5,455,vegan,new york,40.7265019577728,-73.9894421246318
+156,Blockheads,2.0,3.5,730,vegan,new york,40.7627155294445,-73.9876316100625
+157,Juice Press,2.0,3.0,46,vegan,new york,40.72343,-73.99462
+158,Chaiwali Harlem,2.0,3.5,186,vegan,new york,40.80678,-73.94588
+159,Alachi Masala,2.0,4.0,190,vegan,new york,40.78616,-73.97635
+160,Two Tablespoons,2.0,3.5,76,vegan,new york,40.75435,-73.97698
+161,Shangri-La,2.0,4.5,156,vegan,new york,40.6321,-74.0277
+162,Dao Palate,2.0,3.5,225,vegan,new york,40.677953,-73.972753
+163,The Bean,1.0,3.5,207,vegan,new york,40.719995473149,-73.9549927154835
+164,The Bean,1.0,3.5,438,vegan,new york,40.733047218488,-73.990938602634
+165,Juice Press,2.0,3.5,100,vegan,new york,40.72355,-73.98879
+166,Juice Brooklyn,2.0,4.5,9,vegan,new york,40.6824849337565,-73.9408412562102
+167,Brooklyn Standard,1.0,3.0,236,vegan,new york,40.725221,-73.945621
+168,Ikraveit Foods,1.0,3.5,108,vegan,new york,40.7599291205406,-73.9282169938087
+169,Fuel Juice Bar,2.0,3.5,91,vegan,new york,40.681091,-73.954238
+170,Sans Bakery,2.0,5.0,3,vegan,new york,40.7428557,-73.9350567
+171,Nefista Vegan Kofteh,1.0,5.0,69,vegan,new york,40.82646,-73.98697
+172,Gobo,1.9059405940594059,4.0,2,vegan,new york,40.6184196,-74.0149765
+173,Jivamuktea Café,2.0,3.5,117,vegan,new york,40.7343094009,-73.9910125948
+174,Four Seasons Bakery & Juice Bar,2.0,4.5,20,vegan,new york,40.65064,-73.95609
+175,Juice Press,3.0,3.0,64,vegan,new york,40.7390551781704,-74.0025544166565
+176,Veggies Natural Juice Bar,1.0,4.5,128,vegan,new york,40.671975,-73.9571799
+177,Juice Press,2.0,3.0,47,vegan,new york,40.7186774594986,-73.9578451153667
+178,The Juicy Box,2.0,4.0,34,vegan,new york,40.62905,-73.94714
+179,Juice Healthy Food & Drink,2.0,4.0,95,vegan,new york,40.74525,-73.97937
+180,Juice Press,2.0,3.5,21,vegan,new york,40.7219205803484,-74.0097487717867
+181,Juice Press,1.9059405940594059,3.0,4,vegan,new york,40.71412,-74.00981
+182,The Burp Kitchen,1.0,4.5,52,vegan,new york,40.790152,-74.000747
+183,Acai Ya Later,2.0,4.0,91,vegan,new york,40.7388784900919,-74.0302368055116
+184,Jujube Tree,2.0,4.5,339,vegan,new york,40.76512,-73.91821
+185,Cinnamon Girl,1.0,3.0,86,vegan,new york,40.689344,-73.951057
+186,Blockheads,2.0,3.5,207,vegan,new york,40.79024,-73.97274
+187,Capybara Organic Cafe,2.0,4.5,20,vegan,new york,40.6977908734691,-73.9077547565103
+188,Blossom Du Jour,2.0,3.5,55,vegan,new york,40.7676892,-73.9820965
+189,V 4 Vegan,1.9059405940594059,4.0,8,vegan,new york,40.72881,-73.98727
+190,Bodai Vegetarian Restaurant,1.9059405940594059,4.5,7,vegan,new york,40.63803,-73.99954
+191,Ribalta Mo',1.9059405940594059,3.5,13,vegan,new york,40.750325556274,-73.9918599851807
+192,Simply Juiced,2.0,4.5,107,vegan,new york,40.73814,-74.03423
+193,Juice Press,4.0,2.5,22,vegan,new york,40.6702739091728,-73.978481926024
+194,Juice Press,2.0,3.0,21,vegan,new york,40.728481,-74.007919
+195,Vegan Food and Drink Festival,2.0,3.5,5,vegan,new york,40.7960725894841,-73.9250138346629
+196,A8 Pan Asian Vegan Cuisine,1.9059405940594059,4.0,15,vegan,new york,40.65854,-73.98219
+197,Juice Press,2.0,3.5,17,vegan,new york,40.7438446888393,-73.9835462758691
+198,Juice Press,2.0,4.0,33,vegan,new york,40.7510722464036,-73.9893146976829
+199,Tikka Indian Grill Astoria,2.0,4.5,226,vegan,new york,40.7655307,-73.918505
+200,Sauced Pizza,1.0,3.0,1,vegan,new york,40.70104,-73.94107
+201,Juice Press,1.9059405940594059,1.5,15,vegan,new york,40.7390882,-73.9900893
+202,Italfari,1.0,3.0,16,vegan,new york,40.6673393249512,-73.9309539794922
+203,Juice Press,2.0,4.0,2,vegan,new york,40.7437757,-74.0068286
+204,Vegan Divas,1.0,3.5,137,vegan,new york,40.66858,-73.91007
+205,Jalsa - Grill & Gravy,2.0,5.0,52,vegan,new york,40.63393,-73.96746
+206,Vital Blends,1.0,3.5,13,vegan,new york,40.6699949439663,-73.9336752891541
+207,Juice Press,1.9059405940594059,2.0,5,vegan,new york,40.7481584,-73.9856236
+208,Juice Press,3.0,4.5,3,vegan,new york,40.74586,-73.98145
+209,Jahlookova,1.0,4.5,11,vegan,new york,40.81691,-73.94665
+210,Go Natural Health Foods & Juice Bar,2.0,4.0,68,vegan,new york,40.7435321,-73.9193729
+211,Juice Press,3.0,3.5,25,vegan,new york,40.7848242,-73.9561548
+212,Juice Press,1.9059405940594059,1.0,1,vegan,new york,40.70745,-74.01104
+213,Juice Press,3.0,4.0,4,vegan,new york,40.7548684,-73.9858755
+214,Juice Press,2.0,3.5,9,vegan,new york,40.773781388998,-73.959823474288
+215,Juice Press,3.0,3.5,4,vegan,new york,40.71156,-74.01533
+216,Dosa Garden,2.0,4.0,108,vegan,new york,40.6343269348145,-74.0857772827148
+217,Subia's Organic Market,2.0,4.0,158,vegan,new york,40.7196564227343,-74.0471468120813
+218,Dig Inn,1.9059405940594059,3.5,38,vegan,new york,40.77426,-73.9815
+219,Juice Journey Cafe,2.0,4.0,115,vegan,new york,40.8036987,-73.9911
+220,Juice Press,4.0,3.0,98,vegan,new york,40.76376,-73.96539
+221,Juice Press,1.9059405940594059,1.0,1,vegan,new york,40.72987,-74.00709
+222,sweetgreen,2.0,2.5,42,vegan,new york,40.7914677725231,-73.973763740081
+223,Juice Press,2.0,3.5,15,vegan,new york,40.7524241,-73.9779478
+224,Juice Press,2.0,4.0,17,vegan,new york,40.78152,-73.97975
+225,Juice Press,1.9059405940594059,3.0,5,vegan,new york,40.7535,-74.02625
+226,Vegan Street Fair Grand Bazaar,1.9059405940594059,3.0,1,vegan,new york,40.7805708815576,-73.977686651051
+227,Juice Press,2.0,4.0,25,vegan,new york,40.76018,-73.99113
+228,Juice Press,2.0,3.0,21,vegan,new york,40.76331,-73.971003
+229,Juice Press,1.9059405940594059,3.0,2,vegan,new york,40.75733,-73.96715
+230,Juice Press,2.0,3.0,51,vegan,new york,40.7627732639791,-73.9771619490738
+231,Juice Press,2.0,4.0,20,vegan,new york,40.7771631082968,-73.9553746737449
+232,Juice Press,2.0,3.0,6,vegan,new york,40.75733,-73.96715
+233,Juice Press,2.0,3.5,39,vegan,new york,40.7563346976399,-73.9704208821058
+234,Juice Press,2.0,3.5,47,vegan,new york,40.7838766,-73.973677
+235,Fitrition,2.0,4.5,23,vegan,new york,40.763574357045,-73.9151938226194
+236,Juice Press,2.0,3.0,8,vegan,new york,40.75884,-73.97881
+237,Try Vegan,1.0,4.0,9,vegan,new york,40.2050155,-74.4482244
+0,Boucherie West Village,3.0,4.5,931,steak,new york,40.733063,-74.0028772
+1,Salt + Charcoal,2.0,4.0,316,steak,new york,40.71453,-73.9613511
+2,Boucherie Union Square,3.0,4.5,425,steak,new york,40.73715,-73.98789
+3,Peter Luger,4.0,4.0,5188,steak,new york,40.709945,-73.962478
+4,El Mate,2.0,4.5,262,steak,new york,40.6749782203506,-73.9995224876405
+5,Ikinari Steak East Village,2.0,4.0,693,steak,new york,40.73088,-73.98968
+6,Shorty's,2.0,4.0,253,steak,new york,40.7034454,-74.0110779
+7,Buenos Aires,3.0,4.0,474,steak,new york,40.7253150939941,-73.983039855957
+8,View of the World Terrace Club,2.0,4.0,129,steak,new york,40.7098701,-74.013926
+9,Del Frisco's Grille,3.0,3.5,107,steak,new york,40.714167,-74.016111
+10,MarkJoseph Steakhouse,4.0,4.0,369,steak,new york,40.70837,-74.00152
+11,Cafe Argentino,2.0,4.0,206,steak,new york,40.711199,-73.95137
+12,Nusr-Et,4.0,3.5,361,steak,new york,40.76123,-73.97878
+13,Fogo de Chão Brazilian Steakhouse,3.0,4.0,997,steak,new york,40.761085,-73.978067
+14,Harry's,3.0,4.0,630,steak,new york,40.704512,-74.009834
+15,Delmonico's,4.0,4.0,945,steak,new york,40.70507,-74.01019
+16,DeStefano's Steakhouse,3.0,4.5,735,steak,new york,40.71503,-73.94767
+17,Cote,3.0,4.0,589,steak,new york,40.7412996949476,-73.9912893251312
+18,Fuji Hibachi,2.0,3.5,233,steak,new york,40.75792,-73.99067
+19,El Almacen,2.0,4.0,618,steak,new york,40.71679,-73.9564
+20,Yoon Haeundae Galbi,3.0,4.5,194,steak,new york,40.74997,-73.98442
+21,The Capital Grille,3.0,4.0,539,steak,new york,40.7078813982786,-74.0102026698364
+22,The Seafire Grill,3.0,4.5,1004,steak,new york,40.7547012104496,-73.972255513072
+23,Steak Freak,1.0,4.5,91,steak,new york,40.75989320875,-73.9804392493925
+24,Quality Eats,3.0,4.0,379,steak,new york,40.7345,-74.00004
+25,Chart House,3.0,4.0,1255,steak,new york,40.760625,-74.018096
+26,Morton's The Steakhouse,3.0,4.0,198,steak,new york,40.7097005194611,-74.0139538049698
+27,Bowery Meat Company,3.0,4.0,412,steak,new york,40.72453,-73.9917876
+28,Keens Steakhouse,4.0,4.0,2306,steak,new york,40.75071,-73.98652
+29,Il Mulino Prime - Gramercy,2.8533333333333335,4.5,7,steak,new york,40.73875,-73.9885
+30,Yakiniku Futago,3.0,4.5,266,steak,new york,40.738851870947,-73.9941236398979
+31,Ikinari Steak Bleecker St,2.8533333333333335,4.0,16,steak,new york,40.7296,-74.00183
+32,Ichibantei,2.0,4.0,185,steak,new york,40.73063,-73.98275
+33,St. Anselm,3.0,4.0,755,steak,new york,40.7143299,-73.95604
+34,Quality Eats,2.0,4.0,172,steak,new york,40.74451,-73.98661
+35,Churrascaria Plataforma,4.0,4.0,1272,steak,new york,40.76202,-73.98765
+36,Brooklyn Chop House,3.0,3.5,147,steak,new york,40.7115099,-74.00597
+37,Wolfgang's Steakhouse,4.0,4.0,519,steak,new york,40.7211087,-74.0098128
+38,Reserve Cut,4.0,4.0,237,steak,new york,40.7059085,-74.011808
+39,Del Frisco's Double Eagle Steakhouse,4.0,4.5,2707,steak,new york,40.759412,-73.982221
+40,American Cut Steakhouse Tribeca,4.0,4.0,525,steak,new york,40.71915,-74.00994
+41,Amber Steak House,3.0,4.5,266,steak,new york,40.724464173096,-73.949018043155
+42,Rocco Steakhouse,3.0,4.5,275,steak,new york,40.7438607,-73.9861214
+43,David Burke Tavern,3.0,4.0,144,steak,new york,40.76447,-73.96708
+44,Sammy's Roumanian Steakhouse,3.0,4.0,400,steak,new york,40.720429,-73.992872
+45,Brazeiro Churrascaria,2.0,4.5,256,steak,new york,40.796315,-74.002996
+46,Brazeiro Churrascaria,2.0,4.0,135,steak,new york,40.7855359,-74.0094707
+47,Speedy Romeo,2.0,4.0,251,steak,new york,40.71951,-73.98514
+48,Quality Italian,3.0,4.0,934,steak,new york,40.7644044527436,-73.9767805051616
+49,4 Charles Prime Rib,3.0,5.0,180,steak,new york,40.73513,-74.00065
+50,Gallaghers Steakhouse,3.0,4.0,932,steak,new york,40.762876,-73.983837
+51,Speedy Romeo,2.0,4.0,547,steak,new york,40.6875154792236,-73.959874469611
+52,Chimu Bistro,2.0,4.0,761,steak,new york,40.714903,-73.95144
+53,Ikinari Steak Chelsea 7th Ave,2.0,3.5,97,steak,new york,40.74187,-73.9975
+54,Ocean Prime,3.0,4.5,445,steak,new york,40.76173,-73.98063
+55,Strip House - Downtown,4.0,4.0,935,steak,new york,40.7343990253109,-73.9934115938377
+56,Del Frisco's Grille,3.0,3.5,622,steak,new york,40.7596566,-73.9783161
+57,Club A Steakhouse,3.0,4.5,2526,steak,new york,40.76006,-73.96557
+58,Ruth's Chris Steak House,3.0,4.0,838,steak,new york,40.7613323,-73.9821595
+59,Wolfgang's Steakhouse,4.0,4.0,903,steak,new york,40.7466818653462,-73.9820571484794
+60,Strip House,4.0,4.0,488,steak,new york,40.7552982092827,-73.98068987648
+61,Bobby Van's Steakhouse,3.0,3.5,359,steak,new york,40.70606,-74.01114
+62,Quality Meats,4.0,4.0,1853,steak,new york,40.764958,-73.976206
+63,Merakia,3.0,4.0,122,steak,new york,40.74073,-73.99104
+64,Ruth's Chris Steak House,4.0,4.0,371,steak,new york,40.7594208733616,-74.0228876269837
+65,Fleming's Prime Steakhouse & Wine Bar- Edgewater,3.0,4.0,439,steak,new york,40.8059111677674,-73.9875190460327
+66,Hunt & Fish Club,4.0,4.0,418,steak,new york,40.75673,-73.9843
+67,Mastro's Steakhouse,4.0,4.5,560,steak,new york,40.7610374,-73.9802619
+68,Holy Ground,2.8533333333333335,4.0,46,steak,new york,40.71601,-74.00859
+69,Morton's The Steakhouse,4.0,4.0,472,steak,new york,40.7554075,-73.9789116
+70,The Palm Tribeca,3.0,3.5,262,steak,new york,40.716536312364,-74.012791062411
+71,The Writing Room,3.0,3.5,429,steak,new york,40.77946,-73.95094
+72,Wings And Ribs,2.0,4.5,2,steak,new york,40.678741,-73.924388
+73,Empire Steak House,3.0,4.0,220,steak,new york,40.756278,-73.971258
+74,Patrick's Restaurant,2.8533333333333335,3.5,2,steak,new york,40.7572095,-73.989331
+75,Ikinari Steak Times Square,2.0,4.0,112,steak,new york,40.7607045203285,-73.9902504129669
+76,The Capital Grille,3.0,4.0,757,steak,new york,40.75114,-73.97491
+77,Ikinari Steak 5th Ave,2.0,3.0,82,steak,new york,40.75687,-73.98043
+78,R Lounge at Two Times Square,2.0,4.0,288,steak,new york,40.759683705851,-73.9845943450927
+79,Ted's Montana Grill - New York,2.0,3.5,351,steak,new york,40.7608132945898,-73.9802277088165
+80,Ikinari Steak Chelsea 8th Ave,2.0,3.5,30,steak,new york,40.74014,-74.00189
+81,Tuscany Steakhouse,4.0,5.0,70,steak,new york,40.76546,-73.97724
+82,Chuck and Blade,2.0,4.0,103,steak,new york,40.742974,-73.999854
+83,Madangsui,2.0,3.5,640,steak,new york,40.75003,-73.985679
+84,Cafe Hudson,2.8533333333333335,5.0,5,steak,new york,40.71461,-74.03466
+85,Royal 35 Steakhouse,4.0,4.5,158,steak,new york,40.74897,-73.98348
+86,BLT Steak,4.0,4.0,393,steak,new york,40.761162,-73.970335
+87,Outback Steakhouse,2.0,3.0,298,steak,new york,40.742272,-73.992071
+88,The Capital Grille,3.0,4.0,700,steak,new york,40.7607390928484,-73.9813780866211
+89,Le Relais De Venise L'Entrecôte,2.0,3.5,726,steak,new york,40.7577089110773,-73.9717626571655
+90,Emporium Brasil,2.0,4.0,223,steak,new york,40.75653,-73.97989
+91,Maloney & Porcelli,3.0,4.0,432,steak,new york,40.7576,-73.9747
+92,Chimichurri Grill,3.0,4.0,315,steak,new york,40.7592856237038,-73.9921118644058
+93,Valbella,4.0,4.0,216,steak,new york,40.7409181,-74.0068885
+94,Del Frisco's Grille,3.0,3.5,318,steak,new york,40.7386060423225,-74.0276491641998
+95,Madera Cuban Grill & Steakhouse,2.0,3.5,370,steak,new york,40.7445573,-73.9531438
+96,Fire & Oak,3.0,4.0,461,steak,new york,40.7249399,-74.03631
+97,Davio's Northern Italian Steakhouse,3.0,4.0,258,steak,new york,40.75304,-73.97472
+98,Wolfgang's Steakhouse,3.0,3.5,49,steak,new york,40.7554,-73.9781
+99,Strip House Speakeasy,3.0,4.0,42,steak,new york,40.734461,-73.9933526
+100,Antique Bar & Bakery,3.0,4.0,372,steak,new york,40.739005,-74.034587
+101,Libertador Steakhouse - New York,2.0,3.5,417,steak,new york,40.78004,-73.95057
+102,212 Steakhouse,3.0,4.0,582,steak,new york,40.75634,-73.966489
+103,Old Homestead Steak House,4.0,3.5,947,steak,new york,40.74121,-74.00477
+104,Wollensky Grill,3.0,3.5,105,steak,new york,40.7547798156738,-73.9707870483398
+105,STK Downtown,4.0,3.5,1183,steak,new york,40.73988,-74.0072
+106,CUT,4.0,3.5,43,steak,new york,40.712808,-74.009065
+107,STK Rooftop,3.0,3.0,134,steak,new york,40.73988,-74.0072
+108,Benjamin Steakhouse,4.0,4.0,1064,steak,new york,40.7518,-73.97896
+109,STK Midtown,3.0,3.5,804,steak,new york,40.754758,-73.982807
+110,Chirping Chicken,2.0,4.0,84,steak,new york,40.77449,-73.95399
+111,Smith & Wollensky,4.0,3.5,1280,steak,new york,40.7552374844104,-73.9709472466553
+112,TBar,3.0,4.0,171,steak,new york,40.770822,-73.960092
+113,West Side Steakhouse,3.0,4.0,347,steak,new york,40.7606,-73.995
+114,Ricardo Steak House,3.0,4.0,893,steak,new york,40.7934520370731,-73.940475679068
+115,Tender Steak & Sushi,3.0,4.0,275,steak,new york,40.75844,-73.98306
+116,Benjamin Prime,4.0,4.5,192,steak,new york,40.7514936031,-73.9798496845097
+117,Benchmark,3.0,3.5,468,steak,new york,40.6737976074219,-73.9831466674805
+118,Sparks Steak House,4.0,3.5,851,steak,new york,40.75303,-73.972329
+119,Ikinari Steak Broadway,2.0,3.5,86,steak,new york,40.76449,-73.9833
+120,K Rico South American Steakhouse,3.0,4.5,520,steak,new york,40.76438,-73.9880699
+121,Wolfgang Puck,4.0,3.5,68,steak,new york,40.712952228608,-74.0093746800914
+122,Wolfgang's Steakhouse,3.0,3.0,443,steak,new york,40.7560922459689,-73.9894847244675
+123,Sardi's,3.0,3.5,468,steak,new york,40.75789,-73.98755
+124,Delmonico's Kitchen,3.0,3.5,319,steak,new york,40.752533,-73.9899368
+125,The Breslin,3.0,3.5,1533,steak,new york,40.7457012,-73.9878543
+126,Ruth's Chris Steak House,3.0,4.0,67,steak,new york,40.72598,-74.03594
+127,The Palm Too,3.0,3.5,197,steak,new york,40.75146,-73.97067
+128,Bob's Steak & Chop House,3.0,4.0,65,steak,new york,40.7593,-73.9749
+129,Primal Cut Steakhouse,3.0,4.0,10,steak,new york,40.7606647,-73.9623119
+130,Wolfgang's Steakhouse,4.0,3.5,268,steak,new york,40.7581152,-73.9687954
+131,Pietros Ristorante,3.0,4.0,96,steak,new york,40.7506055,-73.9721964
+132,Uncle Jack's Steakhouse - Westside,4.0,3.5,466,steak,new york,40.75367,-73.99549
+133,The Loft Steakhouse,3.0,4.5,62,steak,new york,40.6399094,-73.9866452
+134,Wolf & Lamb Steakhouse,3.0,3.5,161,steak,new york,40.75674,-73.97712
+135,The Palm West Side,3.0,3.5,386,steak,new york,40.76189,-73.98541
+136,Donohue's Steak House,2.0,3.5,76,steak,new york,40.765426,-73.96553
+137,Ikinari Steak Park Ave,2.0,3.0,70,steak,new york,40.74492,-73.98269
+138,Il Mulino Prime,3.0,3.5,129,steak,new york,40.7222497494839,-74.0037372711639
+139,Oyster Bar,3.0,3.5,7,steak,new york,40.7638588,-73.9816513
+140,Outback Steakhouse,2.0,2.5,385,steak,new york,40.611994625646,-74.009344298421
+141,Bobby Van's Steakhouse,3.0,3.0,198,steak,new york,40.75704,-73.98394
+142,Bobby Van's Steakhouse,4.0,3.5,111,steak,new york,40.7543768198208,-73.9755606651306
+143,Lincoln Square Steak,3.0,4.5,751,steak,new york,40.7773391,-73.9830499
+144,Ashton's Alley,2.0,3.0,163,steak,new york,40.75591,-73.97009
+145,Ikinari Steak Madison Ave,2.8533333333333335,3.5,13,steak,new york,40.75194,-73.97972
+146,Castillo Restaurant,2.0,3.5,29,steak,new york,40.65042,-74.005
+147,O'Neill's,2.0,3.0,146,steak,new york,40.729004,-73.9005903
+148,Butcher & Banker,4.0,3.5,63,steak,new york,40.75263,-73.99338
+149,American Cut Steakhouse Midtown,4.0,3.5,190,steak,new york,40.76081,-73.97034
+150,Robert's Steakhouse,4.0,4.0,6,steak,new york,40.75141,-74.00352
+151,Uncle Jack's Meat House,2.0,3.5,224,steak,new york,40.77379,-73.9078399
+152,Coach House,2.0,3.5,450,steak,new york,40.76018,-74.04434
+153,Ben & Jack's Steakhouse,4.0,4.0,231,steak,new york,40.75183,-73.97236
+154,Charlie Palmer Steak,4.0,4.0,185,steak,new york,40.75194,-73.98481
+155,St. Pat's Bar & Grill,2.0,3.0,89,steak,new york,40.756369,-73.980391
+156,M. Wells Steakhouse,3.0,3.5,373,steak,new york,40.748388,-73.9422079
+157,Asia Restaurant,2.0,4.0,27,steak,new york,40.63709,-73.99453
+158,Nick & Stef's Steakhouse,3.0,3.5,199,steak,new york,40.751076,-73.993232
+159,Meet The Meat,3.0,4.5,278,steak,new york,40.7769295040115,-73.9214426951538
+160,La Fusta Restaurant,2.0,3.5,133,steak,new york,40.7639012809459,-74.0484309196472
+161,Parc Oasis Oyster Bar,2.0,4.0,125,steak,new york,40.6290427824765,-74.005197991996
+162,Liberty Prime Steakhouse,3.0,4.0,326,steak,new york,40.7168985,-74.0399027
+163,Bedford on Park,4.0,3.5,18,steak,new york,40.74736,-73.9816
+164,The Cecil Steakhouse,3.0,3.5,82,steak,new york,40.8048153132292,-73.9523577197469
+165,Acappella,3.0,3.5,85,steak,new york,40.80631,-73.991911
+166,Ikinari Steak Lexington Ave,2.8533333333333335,4.0,33,steak,new york,40.77074,-73.96181
+167,Pee Dee Steak House,2.0,3.5,35,steak,new york,40.7943816,-73.9428043
+168,Bobby Van's Steakhouse,4.0,3.5,221,steak,new york,40.759318,-73.970908
+169,Le Marais,3.0,3.0,265,steak,new york,40.758,-73.98429
+170,Four Cuts,3.0,3.5,79,steak,new york,40.7592990833674,-73.9620469123097
+171,Bobby Van's Steakhouse,3.0,3.5,296,steak,new york,40.76111,-73.982507
+172,Tads Steaks,2.0,3.0,122,steak,new york,40.7610421753423,-73.9827114287282
+173,Embers Steakhouse,3.0,3.0,270,steak,new york,40.61662,-74.03369
+174,Don Pancho's,2.0,3.5,106,steak,new york,40.8066471932753,-73.9268930759751
+175,Bistro Le Steak,3.0,3.5,119,steak,new york,40.77147,-73.959
+176,Pee Dee Steak House,2.0,4.0,58,steak,new york,40.8069267272949,-73.944206237793
+177,Frankie & Johnnie's Steakhouse,3.0,3.5,223,steak,new york,40.759956,-73.988926
+178,UN Plaza Grill,3.0,4.0,38,steak,new york,40.75251,-73.96758
+179,Charlie Palmer at the Knick,3.0,3.0,61,steak,new york,40.755599,-73.9862681
+180,Chadwick's,3.0,4.0,225,steak,new york,40.62156,-74.03201
+181,Robert's Steakhouse,4.0,4.0,22,steak,new york,40.7630271911621,-73.9971313476562
+182,Frankie & Johnnie's Steak House,3.0,3.5,144,steak,new york,40.75083,-73.98491
+183,Bistro 613,1.0,4.5,9,steak,new york,40.597958,-73.962386
+184,Ting Fai Cuisine,1.0,3.5,62,steak,new york,40.604761,-73.999101
+185,Bordeaux,3.0,4.5,55,steak,new york,40.61046,-73.96266
+186,Charleys Steaks,1.0,3.0,4,steak,new york,40.7493477,-73.989151
+187,Edward's Steak House,3.0,4.0,210,steak,new york,40.71628,-74.04281
+188,Arthurs Steaks,2.0,3.5,485,steak,new york,40.73978,-74.02978
+189,Atlas Steakhouse,3.0,4.0,155,steak,new york,40.6343412,-73.9671775
+190,Empire Steak House,3.0,3.5,237,steak,new york,40.7645155,-73.9830465
+191,Ruddy and Dean,3.0,4.0,98,steak,new york,40.643947,-74.076889
+192,NYY Steak - Yankee Stadium,4.0,3.5,86,steak,new york,40.8287737724852,-73.9256584024287
+193,Christo's Steak House,3.0,4.0,349,steak,new york,40.770312,-73.9073979
+194,Las Americas Cafe,2.8533333333333335,3.5,4,steak,new york,40.77975,-74.02355
+195,Bobby Van's CPS,3.0,4.0,63,steak,new york,40.76523,-73.97557
+196,Brooklyn Steak Co,3.0,4.0,35,steak,new york,40.6176816477505,-73.9612351312828
+197,Tudor City Steakhouse,3.0,3.5,57,steak,new york,40.749374,-73.9699911
+198,Mi Bandera,2.0,3.5,132,steak,new york,40.77308,-74.02962
+199,Prime One 16,2.0,3.5,143,steak,new york,40.79593,-73.93568
+200,Kilo Astoria,2.0,4.5,87,steak,new york,40.775567,-73.909654
+201,Jerusalem Steak House II,2.0,4.0,18,steak,new york,40.625297,-73.96258
+202,Redcork,2.0,3.5,62,steak,new york,40.7679232725189,-73.9834850105591
+203,Prime 333,2.8533333333333335,2.0,3,steak,new york,40.727127,-74.007683
+204,Dips,2.0,4.5,5,steak,new york,40.6322899,-73.9945526
+205,Affy's Premium Grill,2.0,3.5,219,steak,new york,40.61085,-73.96234
+206,La Familia Restaurant,2.8533333333333335,3.5,5,steak,new york,40.7857133,-74.0134558
+207,Glatt A La Carte,4.0,4.0,31,steak,new york,40.62662,-73.98248
+208,Wolf & Lamb,3.0,3.0,54,steak,new york,40.617481,-73.963402
+209,Ikinari Steak Upper West,2.0,4.0,40,steak,new york,40.7843628,-73.9799037
+210,Talia's Steakhouse & Bar,3.0,3.0,309,steak,new york,40.79196,-73.97213
+211,Angelo's Cafe,2.8533333333333335,2.5,2,steak,new york,40.7753974199295,-74.0200625360012
+212,La Brochette,3.0,3.5,71,steak,new york,40.7498817443848,-73.9774932861328
+213,T Fusion Steakhouse,3.0,4.0,77,steak,new york,40.61336,-73.93929
+214,Tacos el Chicken,2.0,4.0,27,steak,new york,40.642616,-73.978576
+215,Omaha Steaks,2.8533333333333335,3.0,7,steak,new york,40.7693099975586,-73.9589004516602
+216,Aghapy Philly Cheesesteaks,2.8533333333333335,1.5,2,steak,new york,40.706188,-73.907471
+217,Staghorn Steakhouse,4.0,3.0,57,steak,new york,40.7540664672852,-73.9933471679688
+218,The Pearl Room,3.0,3.5,206,steak,new york,40.6239136,-74.0311013
+219,Pollos Mario,2.0,3.5,41,steak,new york,40.744736,-73.9024073
+220,Cityhouse,3.0,2.5,17,steak,new york,40.76472,-73.981185
+221,Tri Tip Grill,2.0,3.5,97,steak,new york,40.7523287198863,-73.9769661426544
+222,Hunters Steak & Ale House,3.0,3.5,83,steak,new york,40.61668,-74.03121
+223,Philly Cheese Steak 710,2.0,3.0,17,steak,new york,40.7625634,-73.9894356
+224,Outback Steakhouse,2.0,2.5,211,steak,new york,40.78916,-74.04465
+225,Arirang Hibachi Steakhouse,2.0,3.5,292,steak,new york,40.62106,-74.02927
+226,Park Bistro,3.0,3.5,7,steak,new york,40.8276,-73.97754
+227,El Tauquitos Steak House,2.8533333333333335,1.0,1,steak,new york,40.8104306149485,-73.9283720190345
+228,Outback Steakhouse,2.0,3.5,250,steak,new york,40.8134579,-73.9845934
+229,Dino & Harrys Steakhouse,3.0,3.5,278,steak,new york,40.753367,-74.027678
+230,Sweet Spot,2.0,3.0,273,steak,new york,40.7747291,-73.9124026
+231,354 Steakhouse,2.0,4.0,123,steak,new york,40.82771,-73.98748
+232,Kasbah Grill & Sushi Restaurant,2.0,3.0,81,steak,new york,40.78786,-73.97731
+233,Signature,3.0,3.0,48,steak,new york,40.5838966776457,-73.9478863030672
+234,Rancho Mateo,2.0,3.5,98,steak,new york,40.80638,-73.99723
+235,Living Room Steakhouse,3.0,3.0,69,steak,new york,40.5992085593087,-73.9893510001046
+236,Parrilla Latina Steakhouse,2.0,2.0,22,steak,new york,40.817657,-73.916672
+237,Montenegro Grille,2.0,1.5,3,steak,new york,40.7659796,-73.9190004
+238,New Yummy Restaurant,2.8533333333333335,3.0,15,steak,new york,40.77942,-74.0175299
+239,Falada Lounge,3.0,3.0,42,steak,new york,40.5838899,-73.94784
+240,Charlies Grilled Subs,2.8533333333333335,1.0,2,steak,new york,40.6100852,-73.9223948
+241,354 STEAKHOUSEDBA SALAUDEL,2.8533333333333335,3.0,2,steak,new york,40.82771,-73.98748
+242,Ikinari Steak Chelsea 8th Ave,2.8533333333333335,1.0,1,steak,new york,40.74014,-74.00189
+0,No Bones Beach Club,2.0,4.0,53,vegan,chicago,41.91041503398,-87.67692
+1,Art Of Dosa,1.607843137254902,4.5,8,vegan,chicago,41.8899316,-87.6780348
+2,Handlebar,2.0,4.0,1310,vegan,chicago,41.9100899,-87.6853
+3,Upton's Breakroom,1.0,4.5,184,vegan,chicago,41.8908805274879,-87.6793019379492
+4,ArePA George,2.0,4.5,49,vegan,chicago,41.9098848,-87.7071149
+5,Moonlight Vulture,1.0,4.5,80,vegan,chicago,41.93399,-87.71492
+6,Ground Control,2.0,4.0,337,vegan,chicago,41.9173377,-87.7107789
+7,ALTHEA,1.607843137254902,4.5,30,vegan,chicago,41.89533,-87.62493
+8,The Chicago Diner,2.0,4.5,763,vegan,chicago,41.9237447433269,-87.6982310134918
+9,Native Foods Cafe,2.0,4.0,586,vegan,chicago,41.90866,-87.67531
+10,Paulie Gee's Logan Square,2.0,4.0,274,vegan,chicago,41.92589,-87.70168
+11,Flat Top Grill,2.0,3.5,557,vegan,chicago,41.8811622,-87.6263129
+12,Loving Heart,1.0,5.0,168,vegan,chicago,41.9619233,-87.6515285
+13,Fancy Plants Cafe,1.607843137254902,4.5,3,vegan,chicago,41.9389847,-87.6451916
+14,Yvolina's Tamales,1.0,4.5,124,vegan,chicago,41.85831,-87.64727
+15,Vegan Now!,2.0,4.5,50,vegan,chicago,41.8839695,-87.6410747
+16,Naansense,1.0,4.0,429,vegan,chicago,41.8852573615387,-87.6336954232788
+17,The Chicago House of Za Vegan Pizzeria,2.0,4.5,89,vegan,chicago,41.95461,-87.66503
+18,Chicago Raw,2.0,4.5,164,vegan,chicago,41.8947448,-87.6301154
+19,Vegan Plate,2.0,4.5,214,vegan,chicago,41.9254188537598,-87.6677169799805
+20,Veggie Grill,2.0,3.5,94,vegan,chicago,41.9329325,-87.6443399
+21,LYFE Kitchen,2.0,4.0,109,vegan,chicago,41.8976854875219,-87.6280541305691
+22,Panadería Nuevo Leon,1.0,4.5,106,vegan,chicago,41.857915932726,-87.667585046552
+23,Kāl'ish,2.0,4.5,163,vegan,chicago,41.9651912,-87.6629087
+24,Flying Saucer,2.0,3.5,382,vegan,chicago,41.9017608,-87.6966653
+25,Protein Bar,2.0,4.0,114,vegan,chicago,41.91677,-87.65721
+26,Urban Vegan,2.0,4.0,399,vegan,chicago,41.9614372155492,-87.669335813659
+27,Protein Bar,1.0,4.0,391,vegan,chicago,41.8790123356902,-87.6350229818467
+28,Soul Vegan,1.0,4.5,18,vegan,chicago,41.8225818,-87.6798871
+29,Vegetarian Express,1.0,4.5,220,vegan,chicago,41.938282,-87.6490631
+30,Loop Juice,1.0,4.5,134,vegan,chicago,41.8840684,-87.6412297
+31,Pick Me Up Cafe,2.0,3.5,893,vegan,chicago,41.9438,-87.65403
+32,Native Foods Cafe,2.0,4.0,480,vegan,chicago,41.9397892506553,-87.655069123534
+33,Veggie Grill,2.0,4.0,92,vegan,chicago,41.8859271698794,-87.6339875915105
+34,Mixed Greens,1.0,3.5,37,vegan,chicago,41.8854097833549,-87.635215423537
+35,Protein Bar,2.0,4.0,270,vegan,chicago,41.8889455786121,-87.6312258839607
+36,Saigon Sisters,1.0,3.0,173,vegan,chicago,41.8839476,-87.6410751
+37,Protein Bar,1.0,4.0,152,vegan,chicago,41.884746,-87.624139
+38,Alice & Friends' Vegan Kitchen,2.0,4.5,287,vegan,chicago,41.9875134,-87.6603665
+39,Protein Bar,1.0,4.0,163,vegan,chicago,41.8832075515937,-87.6345729796018
+40,Cru Cacao,1.607843137254902,4.0,1,vegan,chicago,41.85,-87.65
+41,B'Gabs Goodies,2.0,4.5,93,vegan,chicago,41.79167,-87.58986
+42,Dynamic African Restaurant Cuisine,2.0,4.0,21,vegan,chicago,41.9896445,-87.6592858
+43,Freshii,2.0,3.0,92,vegan,chicago,41.88485,-87.63067
+44,Protein Bar,1.0,4.0,256,vegan,chicago,41.8858024477959,-87.6283451914787
+45,Protein Bar,1.0,4.0,48,vegan,chicago,41.879986,-87.639085
+46,Freshii,1.607843137254902,5.0,1,vegan,chicago,41.8848399,-87.6276
+47,Protein Bar,2.0,4.0,76,vegan,chicago,41.88132,-87.62564
+48,Machetes Big Quesadillas,1.0,4.0,47,vegan,chicago,41.80462,-87.72026
+49,Vegetarian Express,1.0,4.0,63,vegan,chicago,41.9683189,-87.6787262
+50,Chant,2.0,3.5,431,vegan,chicago,41.7994154258194,-87.588751312442
+51,Indio 2,1.0,4.0,85,vegan,chicago,41.7789497375488,-87.7215957641602
+52,Arya Bhavan,2.0,3.5,217,vegan,chicago,41.9979362487793,-87.6928024291992
+53,Freshii,2.0,2.5,27,vegan,chicago,41.8852480897807,-87.6215350627899
+54,Protein Bar,2.0,3.5,55,vegan,chicago,41.888251,-87.63539
+55,The Vegan Food Truck by Ste Martaen,1.0,4.5,41,vegan,chicago,41.7803993225098,-87.6026992797852
+0,Mable's Table,2.0,4.5,209,steak,chicago,41.91582,-87.6699
+1,Penumbra,2.0,5.0,376,steak,chicago,41.92445,-87.710933
+2,Boeufhaus,3.0,4.5,333,steak,chicago,41.899831,-87.687487
+3,Folklore Argentine Grill,2.0,4.0,632,steak,chicago,41.9034461975098,-87.6799240112305
+4,Bobby's Lincoln Park,2.802197802197802,5.0,26,steak,chicago,41.92746,-87.65206
+5,Bavette's Bar & Boeuf,3.0,4.5,2093,steak,chicago,41.8892796234574,-87.6348227262497
+6,Remington's,2.0,4.0,476,steak,chicago,41.88266,-87.62499
+7,Maple & Ash,4.0,4.5,1009,steak,chicago,41.9021130633339,-87.6286945502972
+8,"Joe's Seafood, Prime Steak & Stone Crab",3.0,4.5,2226,steak,chicago,41.8918195,-87.6261787
+9,Prime & Provisions,4.0,4.5,922,steak,chicago,41.8866316388428,-87.6328291859281
+10,Gibsons Bar & Steakhouse,3.0,4.0,1753,steak,chicago,41.901374,-87.627962
+11,Swift & Sons,4.0,4.0,533,steak,chicago,41.8869073066802,-87.6525044962951
+12,About Last Knife,2.802197802197802,4.0,54,steak,chicago,41.8851299,-87.62497
+13,RPM Steak,4.0,4.0,1235,steak,chicago,41.8894143124861,-87.6305293460327
+14,Las Tablas Colombian Steakhouse,2.0,4.0,904,steak,chicago,41.935258,-87.662681
+15,Fogo de Chão Brazilian Steakhouse,3.0,4.5,1541,steak,chicago,41.8942208218562,-87.6323306601503
+16,Tango Sur,2.0,4.0,2211,steak,chicago,41.9507843879442,-87.6639031774259
+17,Canton Regio,2.0,4.0,432,steak,chicago,41.858017,-87.6642617
+18,Michael Jordan's Steak House,3.0,4.0,916,steak,chicago,41.8912043,-87.6239424
+19,Wildfire,3.0,4.0,1018,steak,chicago,41.8938172904842,-87.6333183422685
+20,Mastro's Steakhouse,4.0,4.0,1178,steak,chicago,41.8914200867251,-87.6299571990967
+21,Truluck's,3.0,4.0,149,steak,chicago,41.8981951,-87.6266769
+22,Weber Grill Restaurant,2.0,3.5,1415,steak,chicago,41.8918845,-87.6278923
+23,Gibsons Italia,3.0,4.0,244,steak,chicago,41.8866045,-87.6396918
+24,Mon Ami Gabi,3.0,4.0,686,steak,chicago,41.924093,-87.636974
+25,Chicago Cut Steakhouse,4.0,4.0,1440,steak,chicago,41.8879719146942,-87.6333480203605
+26,Booth One,3.0,4.0,111,steak,chicago,41.90594,-87.62835
+27,Hugo's Frog Bar & Fish House,3.0,4.0,915,steak,chicago,41.901191,-87.627793
+28,RL Restaurant,3.0,4.0,693,steak,chicago,41.897007,-87.624961
+29,GT Prime Steakhouse,4.0,4.0,227,steak,chicago,41.895123,-87.633846
+30,Mity Nice,2.0,4.0,411,steak,chicago,41.8981170141684,-87.6232167949677
+31,The Capital Grille,3.0,4.5,740,steak,chicago,41.893789,-87.622358
+32,ZED451,3.0,4.0,1307,steak,chicago,41.896111,-87.63102
+33,Roka Akor - Chicago,3.0,4.0,1082,steak,chicago,41.8905877769375,-87.6312957381504
+34,Ditka's Restaurant,3.0,4.0,906,steak,chicago,41.89859,-87.62558
+35,Tortoise Supper Club,3.0,4.0,451,steak,chicago,41.8887554967998,-87.6282440151018
+36,Tavern On Rush,3.0,3.5,917,steak,chicago,41.9018219998443,-87.6279733472541
+37,Bistronomic,3.0,4.0,527,steak,chicago,41.8979072566376,-87.6272430870994
+38,Lawry's The Prime Rib,3.0,4.0,737,steak,chicago,41.893461,-87.625029
+39,Steak 48,4.0,4.5,441,steak,chicago,41.893,-87.62637
+40,Texas de Brazil,3.0,4.0,189,steak,chicago,41.891161,-87.622115
+41,Ceviche,2.0,4.0,198,steak,chicago,41.9321395,-87.6924947
+42,Eddie V's Prime Seafood and Steaks,3.0,4.5,611,steak,chicago,41.891544320187,-87.6252151962952
+43,III Forks,3.0,3.5,405,steak,chicago,41.88651,-87.61743
+44,Machu Picchu Restaurant,2.0,4.0,478,steak,chicago,41.9516650316681,-87.6690340870022
+45,El Nandu Restaurant,2.0,4.0,336,steak,chicago,41.92452,-87.6962099
+46,Carson's,3.0,4.0,101,steak,chicago,41.8909851,-87.6149193
+47,Rosebud on Rush,2.0,4.0,790,steak,chicago,41.895633,-87.62571
+48,Ronny's Original Chicago Steak House,2.0,3.5,257,steak,chicago,41.8856343261747,-87.6311342039318
+49,The Chicago Firehouse Restaurant,3.0,3.5,509,steak,chicago,41.86397,-87.62361
+50,Lloyd's Chicago,2.0,3.0,162,steak,chicago,41.881404876709,-87.6364669799805
+51,Morton's The Steakhouse,3.0,4.0,378,steak,chicago,41.8866557925648,-87.625533703067
+52,Nacional 27,3.0,3.5,840,steak,chicago,41.89489726738,-87.637452219798
+53,Harry Caray's Italian Steakhouse - River North,3.0,4.0,699,steak,chicago,41.8890226258691,-87.6292555506971
+54,Ron of Japan,3.0,3.0,293,steak,chicago,41.8936500549316,-87.6213073730469
+55,McCormick & Schmick's Seafood & Steaks,3.0,3.0,412,steak,chicago,41.8866025,-87.6272253
+56,Gene & Georgetti,3.0,3.5,778,steak,chicago,41.89091,-87.63581
+57,Carmine's,3.0,3.5,808,steak,chicago,41.9019953,-87.6281131
+58,Wollensky's Grill,3.0,4.0,100,steak,chicago,41.8883276,-87.6281349
+59,Morton's The Steakhouse,4.0,4.0,286,steak,chicago,41.9015537007266,-87.628768
+60,The Grillroom Chophouse & Wine Bar,3.0,3.0,282,steak,chicago,41.88037,-87.62858
+61,Brasa Roja,2.0,3.5,130,steak,chicago,41.9461541666152,-87.7276231342307
+62,STK Chicago,3.0,4.0,702,steak,chicago,41.88902,-87.62864
+63,Hutch American Bistro,2.0,3.5,577,steak,chicago,41.9419518,-87.6521806
+64,Kinzie Chophouse,3.0,4.0,701,steak,chicago,41.8893789,-87.634279
+65,Ruth's Chris Steak House,3.0,4.0,709,steak,chicago,41.8901981146158,-87.6294261217117
+66,Rosebud Steakhouse,3.0,4.0,355,steak,chicago,41.9000993,-87.6220543
+67,Erie Cafe,3.0,3.5,293,steak,chicago,41.894254,-87.642657
+68,Evita Argentinian Steakhouse,4.0,4.0,34,steak,chicago,41.99298,-87.71219
+69,Revolucion Steakhouse,2.0,3.5,367,steak,chicago,41.9446868896484,-87.6453628540039
+70,The Palm Chicago,2.802197802197802,3.5,33,steak,chicago,41.88737,-87.61953
+71,Artango Bar & Steakhouse,3.0,3.5,182,steak,chicago,41.9684363770331,-87.6883043595245
+72,Torali,3.0,4.0,23,steak,chicago,41.89773,-87.6235
+73,Smith & Wollensky,3.0,3.5,798,steak,chicago,41.8883017,-87.6281349
+74,Stetsons Modern Steak + Sushi,3.0,4.0,164,steak,chicago,41.8873352808554,-87.6220776735412
+75,Chicago Chop House,4.0,3.5,669,steak,chicago,41.89349,-87.63045
+76,The Grill on the Alley,3.0,4.0,184,steak,chicago,41.8995123057004,-87.6233042759796
+77,Benny’s Chop House,4.0,4.0,583,steak,chicago,41.89065,-87.62698
+78,Fleming's Prime Steakhouse & Wine Bar - Chicago,3.0,4.0,520,steak,chicago,41.89227,-87.62703
+79,Shula's Steak House,3.0,3.5,164,steak,chicago,41.8893721410436,-87.6200652352127
+80,Rosebud Prime,3.0,3.5,336,steak,chicago,41.881632,-87.629018
+81,The Steak Out,2.802197802197802,4.5,14,steak,chicago,41.85365,-87.62675
+82,La Cantina,2.0,2.5,60,steak,chicago,41.8803520202637,-87.6301345825195
+83,Select Cut Steak House,3.0,3.5,209,steak,chicago,41.932973,-87.649073
+84,Sabor A Café Colombian Steakhouse,2.0,3.5,208,steak,chicago,41.990297,-87.691057
+85,Stefani Prime,3.0,4.0,108,steak,chicago,42.00402,-87.74776
+86,Las Tablas,2.0,3.0,357,steak,chicago,41.95373,-87.750767
+87,El Llano Restaurant,2.0,3.5,59,steak,chicago,41.954179,-87.719454
+88,Fran's Beef,1.0,4.5,12,steak,chicago,41.85438,-87.66383
+89,Babas Famous Steak & Lemonade,2.802197802197802,1.0,3,steak,chicago,41.8798969,-87.7245996
+90,Mexico Steakhouse,2.0,4.0,63,steak,chicago,41.8401565551758,-87.6604309082031
+91,LongHorn Steakhouse,2.0,3.5,135,steak,chicago,42.012312,-87.712177
+92,Outback Steakhouse,2.0,3.0,205,steak,chicago,42.011805,-87.76714
+93,Shallots Bistro,4.0,3.0,74,steak,chicago,42.009021,-87.762529
+94,Kevin's Hamburger Heaven,1.0,3.0,40,steak,chicago,41.823861,-87.64026
+95,III Forks,2.802197802197802,1.0,1,steak,chicago,41.88525,-87.61846
+96,Steak 'n Egger,1.0,3.0,20,steak,chicago,41.8653411865234,-87.7645645141602
+0,Farm Spirit,4.0,5.0,128,vegan,portland,45.5167118,-122.6514464
+1,Kayo's Ramen Bar,2.0,4.0,336,vegan,portland,45.5502899,-122.66641
+2,Abyssinian Kitchen,2.0,4.5,132,vegan,portland,45.5036125183105,-122.644866943359
+3,Blossoming Lotus,2.0,4.5,1035,vegan,portland,45.535498,-122.650834
+4,Ichiza Kitchen & Tea House,2.0,4.5,185,vegan,portland,45.5175399,-122.69115
+5,Aviv,2.0,4.0,184,vegan,portland,45.5052317145775,-122.654052749276
+6,Kati Portland,2.0,4.5,204,vegan,portland,45.504581451416,-122.634994506836
+7,Prasad,2.0,4.5,664,vegan,portland,45.5245251315527,-122.680742740631
+8,Fatsquatch PDX,1.0,5.0,39,vegan,portland,45.5166292611911,-122.629044502974
+9,Black Water,1.0,4.0,165,vegan,portland,45.53529,-122.65679
+10,The Sudra,2.0,4.0,302,vegan,portland,45.52672,-122.64172
+11,Los Gorditos,1.0,4.0,352,vegan,portland,45.52419,-122.68084
+12,Hungry Tiger,1.0,3.5,430,vegan,portland,45.521307438612,-122.65370875597
+13,Canteen,1.0,4.0,263,vegan,portland,45.5191383,-122.6367569
+14,Loving Hut,1.0,4.5,357,vegan,portland,45.51684,-122.68674
+15,Next Level Burger,1.0,4.0,257,vegan,portland,45.5123678,-122.6196438
+16,Prasad East,2.0,4.0,47,vegan,portland,45.5232810974121,-122.653938293457
+17,Secret Sauce Burger,1.5057471264367817,5.0,11,vegan,portland,45.5233,-122.69162
+18,Epif,2.0,4.5,114,vegan,portland,45.5259272,-122.6370851
+19,Pixie Retreat Raw'r Laboratorie & Makery,2.0,5.0,33,vegan,portland,45.5110677127071,-122.662685800594
+20,No Bones Beach Club PDX,2.0,4.0,265,vegan,portland,45.55133,-122.67522
+21,Laughing Planet,1.0,4.0,155,vegan,portland,45.5114,-122.6798
+22,Gluten Free Gem,1.0,5.0,77,vegan,portland,45.5349792,-122.6639078
+23,Virtuous Pie,2.0,4.5,234,vegan,portland,45.5046791,-122.6540618
+24,Bombay Chaat House,1.0,4.5,206,vegan,portland,45.5195639143321,-122.684519290924
+25,Sweet Hereafter,2.0,4.0,411,vegan,portland,45.516372,-122.6303344
+26,Off The Griddle,2.0,4.5,654,vegan,portland,45.488845,-122.595298
+27,The Bye and Bye,1.0,4.0,787,vegan,portland,45.5592918395996,-122.655242919922
+28,Food Fight Grocery,2.0,4.5,237,vegan,portland,45.51956,-122.65333
+29,The Whole Bowl,1.0,4.5,227,vegan,portland,45.512301,-122.616918
+30,Aberus Ethiopian Restaurant,2.0,4.5,93,vegan,portland,45.5625354841843,-122.660604037358
+31,Pixie Retreat,2.0,5.0,52,vegan,portland,45.5262464514219,-122.682054737006
+32,Papa G's Vegan Organics,2.0,4.5,306,vegan,portland,45.50466,-122.64226
+33,Vtopia Restaurant & Cheese Shop,2.0,4.5,242,vegan,portland,45.5175399,-122.69115
+34,Taqueria Los Gorditos,1.0,3.5,420,vegan,portland,45.504873,-122.653452
+35,White Owl Social Club,2.0,3.0,419,vegan,portland,45.51343,-122.65803
+36,Southeast Grind,1.0,4.0,203,vegan,portland,45.5009072,-122.652517
+37,Dots Cafe,1.0,4.0,382,vegan,portland,45.5033895,-122.6400161
+38,Sweetpea Baking Company,1.0,4.0,456,vegan,portland,45.5193930119276,-122.653417736292
+39,Jurassic Cart,2.0,5.0,102,vegan,portland,45.4959139492302,-122.608949531025
+40,Greenleaf Juicing Company,2.0,4.0,72,vegan,portland,45.500273,-122.6716811
+41,The Pear,1.5057471264367817,4.5,5,vegan,portland,45.52334,-122.66323
+42,The Magnolia,2.0,4.0,56,vegan,portland,45.53584,-122.62116
+43,Veggie Grill,2.0,4.0,385,vegan,portland,45.5174805969,-122.678538635373
+44,Supernova Vegan,2.0,5.0,53,vegan,portland,45.47892,-122.61291
+45,Nectar Cafe,1.0,4.5,147,vegan,portland,45.5369125999213,-122.620565565962
+46,DC Vegetarian,2.0,4.5,56,vegan,portland,45.50509,-122.61071
+47,Pieology Pizzeria,1.0,4.0,148,vegan,portland,45.5187305063009,-122.680369913578
+48,Greenleaf Juicing Company,1.0,4.0,134,vegan,portland,45.51938,-122.67903
+49,Laughing Planet,1.0,4.0,158,vegan,portland,45.5284109124016,-122.68098891702
+50,Portland Paleo,1.5057471264367817,5.0,1,vegan,portland,45.5074577331543,-122.690254211426
+51,Sip,1.0,4.5,111,vegan,portland,45.50082,-122.64494
+52,Petunia's Pies & Pastries,1.0,4.0,635,vegan,portland,45.52093,-122.68356
+53,ImJai Thai,2.0,4.5,112,vegan,portland,45.516494885087,-122.624702006578
+54,Native Bowl,1.0,4.5,178,vegan,portland,45.554373,-122.6758145
+55,Pho Green Papaya & Deli,2.0,3.5,106,vegan,portland,45.5201,-122.661284
+56,E'Njoni Cafe,2.0,4.0,273,vegan,portland,45.56246,-122.67621
+57,Greenleaf Juicing Company,2.0,4.5,43,vegan,portland,45.51986,-122.66037
+58,The Whole Bowl,1.0,4.5,82,vegan,portland,45.5205832076872,-122.681083716452
+59,Rudy's Gourmet Pizza,2.0,4.0,285,vegan,portland,45.4985466003418,-122.640937805176
+60,Victoria,2.0,4.0,120,vegan,portland,45.5579667341944,-122.67507770304
+61,Mis Tacones,1.5057471264367817,5.0,5,vegan,portland,45.5194216402872,-122.65310744852
+62,Greenleaf Juicing Company,2.0,4.5,163,vegan,portland,45.5289193790236,-122.683218944524
+63,Doe Donuts,1.0,4.5,281,vegan,portland,45.4978912811687,-122.578102983534
+64,The Whole Bowl,1.0,4.5,8,vegan,portland,45.51699,-122.67544
+65,Vita Cafe,2.0,4.0,708,vegan,portland,45.5591551,-122.6343181
+66,Triumph Coffee,1.0,4.0,88,vegan,portland,45.521263,-122.65393
+67,El Nutri Taco,1.0,4.0,253,vegan,portland,45.5589141845703,-122.643287658691
+68,The Whole Bowl,1.0,4.5,33,vegan,portland,45.5486049,-122.6678051
+69,Green City Smoothies,1.5057471264367817,5.0,16,vegan,portland,45.5049803,-122.6340753
+70,Missionary Chocolates,2.0,5.0,100,vegan,portland,45.5264577,-122.6378923
+71,Laughing Planet,1.0,4.0,146,vegan,portland,45.5500478,-122.6756549
+72,The Whole Bowl,1.5057471264367817,4.5,4,vegan,portland,45.53358,-122.69904
+73,The Native Bowl,1.5057471264367817,4.5,2,vegan,portland,45.52026,-122.67445
+74,The Whole Bowl,1.5057471264367817,3.5,3,vegan,portland,45.518681326211,-122.679680585861
+75,Garden Bar,2.0,3.0,15,vegan,portland,45.5115826,-122.6774575
+76,Sweet Basil Thai Cuisine,2.0,3.5,264,vegan,portland,45.5353057,-122.6334496
+77,The Whole Bowl Cart,1.0,4.5,97,vegan,portland,45.52629,-122.68255
+78,Sushi Love,1.0,4.5,62,vegan,portland,45.46411,-122.654577
+79,Kure Plant Based Cafe,1.5057471264367817,5.0,6,vegan,portland,45.5289039,-122.6841738
+80,Straight From New York Pizza Hawthorne,1.5057471264367817,3.5,5,vegan,portland,45.51226,-122.62558
+81,Monsoon Thai Cuisine,2.0,4.0,225,vegan,portland,45.5544700622559,-122.675201416016
+82,Best Friend Juice & Espresso,1.0,5.0,32,vegan,portland,45.5050049,-122.6544666
+83,Thai Food Cafe,1.0,4.0,166,vegan,portland,45.5627734050755,-122.675718555481
+84,Next Level Burger,2.0,4.0,67,vegan,portland,45.4159906953243,-122.66218395715
+85,Shoofly Vegan Bakery,1.5057471264367817,5.0,10,vegan,portland,45.5602912902832,-122.674858093262
+86,India Oven,2.0,3.5,206,vegan,portland,45.51632,-122.62864
+87,The Whole Bowl Hollywood Bowl,1.0,4.5,37,vegan,portland,45.5382335,-122.6157696
+88,It's a Rawesome Life,1.5057471264367817,5.0,2,vegan,portland,45.457687,-122.629826
+89,Laughing Planet,1.0,3.5,189,vegan,portland,45.51623,-122.63045
+90,Essential Juices and Smoothies,1.0,4.5,25,vegan,portland,45.46412,-122.6546679
+91,Sip,1.0,4.0,71,vegan,portland,45.5589251,-122.6425748
+92,Cafe Eleven,1.0,4.5,70,vegan,portland,45.5701093,-122.6606301
+93,Pieology Pizzeria,1.0,4.0,171,vegan,portland,45.434384,-122.572405
+94,Whimsical Folly,1.5057471264367817,5.0,8,vegan,portland,45.56294,-122.65907
+95,E-San Thai Cuisine,1.0,2.5,14,vegan,portland,45.50458,-122.6362
+96,Thai Garden To Go,1.0,4.5,62,vegan,portland,45.410845,-122.56868
+97,The High Water Mark,1.0,4.0,33,vegan,portland,45.5719428,-122.6611701
+98,El Nutri Taco,1.0,4.5,135,vegan,portland,45.4792818,-122.5760835
+99,Canteen,1.5057471264367817,5.0,4,vegan,portland,45.4153609,-122.6635789
+100,The Big Dilla,1.5057471264367817,5.0,17,vegan,portland,45.58953,-122.74863
+101,Laughing Planet Cafe,1.0,3.5,60,vegan,portland,45.4150072849867,-122.662941659632
+0,Tasty n Alder,2.0,4.5,3384,steak,portland,45.52134,-122.68334
+1,Laurelhurst Market,3.0,4.0,961,steak,portland,45.5231759,-122.6320381
+2,Ox,3.0,4.0,889,steak,portland,45.53935,-122.66213
+3,Portland City Grill,3.0,4.0,2549,steak,portland,45.52232,-122.67625
+4,Jake's Famous Crawfish,3.0,4.0,1398,steak,portland,45.5225877,-122.6834548
+5,Prime Rib & Chocolate Cake,2.0,3.5,284,steak,portland,45.53467,-122.65266
+6,El Gaucho,4.0,4.0,525,steak,portland,45.5217699,-122.67869
+7,Fogo de Chão Brazilian Steakhouse,3.0,4.0,873,steak,portland,45.5171658534069,-122.679391931877
+8,RingSide Steakhouse,3.0,4.0,774,steak,portland,45.52351,-122.69608
+9,Urban Farmer,3.0,3.5,857,steak,portland,45.5191534787825,-122.678246866701
+10,Jake's Grill,2.0,3.5,639,steak,portland,45.5205332822946,-122.682016850445
+11,Salty's on the Columbia River,3.0,4.0,1033,steak,portland,45.601008,-122.624584
+12,Clyde's Prime Rib Restaurant & Bar,2.0,3.5,317,steak,portland,45.54116,-122.60655
+13,McCormick & Schmick's Harborside at the Marina,2.0,3.0,486,steak,portland,45.5094041,-122.673329
+14,Morton's The Steakhouse,4.0,4.0,238,steak,portland,45.5129276024121,-122.677827179432
+15,Brazil Grill,3.0,3.5,266,steak,portland,45.5173245,-122.6862592
+16,Rosa Rosa,2.5517241379310347,4.0,17,steak,portland,45.5200100189509,-122.680243849754
+17,Stanford's Restaurant & Bar,2.0,3.0,217,steak,portland,45.5318007921066,-122.655894756317
+18,Tokio Table,2.0,4.0,245,steak,portland,45.50508,-122.6133
+19,Chart House,3.0,3.5,373,steak,portland,45.4831538693178,-122.682747915394
+20,Ruth's Chris Steak House,3.0,4.0,393,steak,portland,45.518129,-122.680084
+21,Wilfs Restaurant & Bar,3.0,3.5,229,steak,portland,45.5286288550569,-122.676288713947
+22,Stanford's Restaurant & Bar,2.0,4.0,201,steak,portland,45.588909,-122.593986
+23,Stanford's Restaurant & Bar,2.0,3.5,159,steak,portland,45.6115340739925,-122.681340765607
+24,Philadelphia Steaks & Hoagies,2.0,4.0,61,steak,portland,45.39097,-122.64597
+25,Stanford's Restaurant & Bar,2.0,3.0,195,steak,portland,45.4330051,-122.5765042
+26,Chan's Steakery,2.0,3.5,87,steak,portland,45.44713,-122.64236
+27,Stanford's Restaurant and Bar,2.0,3.5,237,steak,portland,45.4191274450554,-122.739800926432
+28,Black Angus Steakhouse,2.0,3.5,176,steak,portland,45.6307933653631,-122.666792979834
+29,Outback Steakhouse,2.0,2.5,136,steak,portland,45.454448,-122.578666
+0,Shizen Vegan Sushi Bar & Izakaya,2.0,4.5,1284,vegan,san francisco,37.768314,-122.421642
+1,Gracias Madre,2.0,4.0,3001,vegan,san francisco,37.761606,-122.419241
+2,VeganBurg,2.0,4.0,652,vegan,san francisco,37.77017,-122.44646
+3,The Flying Falafel,1.0,4.5,820,vegan,san francisco,37.7812488,-122.411304
+4,Udupi Palace,2.0,4.0,1295,vegan,san francisco,37.75667,-122.42091
+5,Golden Era Vegan Restaurant,2.0,4.5,531,vegan,san francisco,37.7814734450825,-122.416835837066
+6,Love N Haight Deli,1.0,4.0,442,vegan,san francisco,37.772004,-122.431261
+7,Chisme Cantina,2.0,4.5,277,vegan,san francisco,37.78862,-122.41483
+8,Urban Remedy,2.0,4.5,28,vegan,san francisco,37.75184,-122.42905
+9,Indochine Vegan,2.0,3.5,316,vegan,san francisco,37.7646623774103,-122.421955168247
+10,Nourish Cafe,2.0,4.0,356,vegan,san francisco,37.7852478,-122.4647598
+11,Greens Restaurant,3.0,4.0,1939,vegan,san francisco,37.8053224,-122.432264
+12,Cha-Ya,2.0,4.0,1135,vegan,san francisco,37.760753,-122.421787
+13,Loving Hut,2.0,4.0,383,vegan,san francisco,37.76442,-122.46361
+14,Ike's Love & Sandwiches,2.0,3.5,177,vegan,san francisco,37.7851098623318,-122.419760923614
+15,Mixt,2.0,4.0,83,vegan,san francisco,37.75835,-122.42107
+16,Ananda Fuara,2.0,4.0,1030,vegan,san francisco,37.77798,-122.4162
+17,Vegan Picnic,2.0,4.5,246,vegan,san francisco,37.79734,-122.43163
+18,Next Level Burger,2.0,4.0,100,vegan,san francisco,37.7644788,-122.4032778
+19,Peña Pachamama,2.0,4.0,430,vegan,san francisco,37.79976,-122.41049
+20,Nick's Kitchen,2.0,4.5,181,vegan,san francisco,37.70798,-122.41771
+21,Vegan-n-Kabob,1.8666666666666667,4.5,38,vegan,san francisco,37.77981,-122.43226
+22,Judahlicious,2.0,3.5,699,vegan,san francisco,37.76068,-122.50408
+23,Lucky Creation Vegetarian Restaurant,1.0,4.0,503,vegan,san francisco,37.7951059659376,-122.407378596858
+24,Chabaa Thai Cuisine,1.0,3.5,1200,vegan,san francisco,37.7872345,-122.4103286
+25,DNA Pizza,1.0,3.0,366,vegan,san francisco,37.7711,-122.41263
+26,SF Brew Fest n' Vegan Eats Invitational,1.8666666666666667,4.0,1,vegan,san francisco,37.7856499,-122.39319
+27,CyBelle's Front Room,2.0,4.0,543,vegan,san francisco,37.76238,-122.46641
+28,Nick's On Grand,2.0,4.5,74,vegan,san francisco,37.6548012278022,-122.409045464279
+29,Ike's Love & Sandwiches,2.0,3.5,362,vegan,san francisco,37.6693249,-122.4691082
+30,Green Papaya,2.0,3.0,467,vegan,san francisco,37.7839106676974,-122.404756595333
+31,Samovar Tea & Chai,2.0,3.5,25,vegan,san francisco,37.7874279428932,-122.433437053773
+32,Mama's Cookies,1.8666666666666667,4.5,3,vegan,san francisco,37.8017807006836,-122.41056060791
+0,Niku Steakhouse,2.7567567567567566,5.0,8,steak,san francisco,37.7696671,-122.403567
+1,Lolinda,3.0,4.0,1809,steak,san francisco,37.7566414790839,-122.41907298565
+2,Angler,2.7567567567567566,4.0,126,steak,san francisco,37.79307,-122.39212
+3,House of Prime Rib,3.0,4.0,6717,steak,san francisco,37.79338,-122.4225
+4,Bobo's,3.0,4.0,2007,steak,san francisco,37.8014088795149,-122.425744103705
+5,5A5 Steak Lounge,3.0,4.0,2067,steak,san francisco,37.7969972,-122.4000609
+6,Espetus Brazilian Steak House,3.0,4.0,3244,steak,san francisco,37.7733327504928,-122.422131667494
+7,Betty Lou's Seafood & Grill,2.0,4.5,565,steak,san francisco,37.798272477416,-122.407057508826
+8,Fogo de Chão Brazilian Steakhouse,3.0,3.5,727,steak,san francisco,37.7850390233799,-122.400256183964
+9,Original Joe's,2.0,4.0,1243,steak,san francisco,37.80021,-122.40945
+10,Harris' Restaurant,4.0,4.0,1767,steak,san francisco,37.79508,-122.42287
+11,Osso Steakhouse,4.0,3.5,685,steak,san francisco,37.791026,-122.413648
+12,Ruth's Chris Steak House,3.0,4.0,1993,steak,san francisco,37.7905481,-122.4226117
+13,Alexander's Steakhouse,4.0,4.0,1609,steak,san francisco,37.7793,-122.39568
+14,Bullshead Restaurant,2.0,4.0,789,steak,san francisco,37.740895,-122.465527
+15,Roka Akor - San Francisco,4.0,4.0,1157,steak,san francisco,37.7965391394848,-122.403850511802
+16,Brazen Head,2.0,4.0,662,steak,san francisco,37.7993037,-122.4322957
+17,Bluestem Brasserie,3.0,4.0,1609,steak,san francisco,37.785985,-122.404921
+18,Leatherneck Steakhouse,3.0,4.0,290,steak,san francisco,37.788678,-122.410458
+19,Chart House,3.0,3.0,376,steak,san francisco,37.8109319388655,-122.409821
+20,McCormick & Kuleto's Seafood & Steaks,3.0,3.0,1156,steak,san francisco,37.805851,-122.422757
+21,EPIC Steak,3.0,3.5,2112,steak,san francisco,37.7908179090105,-122.389448990853
+22,Buckhorn Grill - San Francisco,2.0,4.0,639,steak,san francisco,37.784221,-122.406176
+23,Buckeye Roadhouse,3.0,4.0,1217,steak,san francisco,37.878429,-122.51637
+24,Morton's The Steakhouse,4.0,3.5,1153,steak,san francisco,37.78849,-122.40883
+25,Roy's Restaurant,3.0,4.0,2221,steak,san francisco,37.7881,-122.3991
+26,Izzy's San Francisco,3.0,3.5,988,steak,san francisco,37.8003027,-122.4381084
+27,John's Grill,3.0,3.5,1188,steak,san francisco,37.785436,-122.407234
+28,Tommy's Mexican Restaurant,2.0,3.5,1119,steak,san francisco,37.77985,-122.4831
+29,Good Evening Thursday,3.0,4.0,1,steak,san francisco,37.7589454650879,-122.41877746582
+30,Bob's Steak & Chop House,3.0,3.5,572,steak,san francisco,37.7931,-122.40317
+31,Sizzler,2.0,2.5,292,steak,san francisco,37.6725501298865,-122.465477147335
+32,Alfred's Steakhouse,3.0,3.5,659,steak,san francisco,37.79483,-122.40445
+33,Tads Steak House,2.0,3.0,732,steak,san francisco,37.78597,-122.40758
+34,Outback Steakhouse,2.0,2.5,650,steak,san francisco,37.665631,-122.46662
+35,Charley's Philly Steaks,1.0,3.0,117,steak,san francisco,37.784433,-122.405833
+36,Geneva Steak,2.0,3.5,93,steak,san francisco,37.7164344787598,-122.441413879395
+37,Castagnola's,2.0,2.5,606,steak,san francisco,37.8081022,-122.4175276
+38,Val's Steak House Restaurant & Lounge,2.0,3.5,426,steak,san francisco,37.691611,-122.4715
+0,Gracias Madre,2.0,4.0,3649,vegan,los angeles,34.0807951106153,-118.386972025037
+1,The Grain Cafe,2.0,4.5,753,vegan,los angeles,34.04762,-118.32758
+2,Monty's Good Burger,2.0,4.5,893,vegan,los angeles,34.06469,-118.30876
+3,Crossroads,3.0,4.0,1638,vegan,los angeles,34.08342,-118.37011
+4,Cafe Gratitude - Larchmont,2.0,4.0,1986,vegan,los angeles,34.08279,-118.32404
+5,Sage Vegan Bistro - Echo Park,2.0,4.0,1973,vegan,los angeles,34.077123,-118.258714
+6,Messob Ethiopian Restaurant,2.0,4.0,731,vegan,los angeles,34.05699,-118.36469
+7,Trejos Tacos - La Brea,2.0,3.5,1436,vegan,los angeles,34.056529,-118.344882
+8,Doomie's Home Cookin',2.0,4.0,1596,vegan,los angeles,34.093984,-118.327639
+9,Little Pine,2.0,4.5,725,vegan,los angeles,34.10768,-118.26677
+10,Erin McKenna's Bakery,2.0,4.0,571,vegan,los angeles,34.0759173,-118.3234951
+11,BESTIES VEGAN PARADISE,1.6782608695652175,5.0,1,vegan,los angeles,34.09523,-118.29584
+12,Shojin Downtown,2.0,4.0,1655,vegan,los angeles,34.0443222,-118.2382339
+13,SunCafe Organic,2.0,4.5,2109,vegan,los angeles,34.1385791989621,-118.366539
+14,Elf Café,2.0,4.5,712,vegan,los angeles,34.077812,-118.264616
+15,M Café - Melrose,2.0,4.0,850,vegan,los angeles,34.08371,-118.34483
+16,Earle's On Crenshaw,1.0,4.5,283,vegan,los angeles,34.0156233070285,-118.334755915362
+17,Green Table Cafe,2.0,4.5,373,vegan,los angeles,34.0522237,-118.37115
+18,Ramen Hood,2.0,4.5,804,vegan,los angeles,34.0505289,-118.2486189
+19,Donatsu,1.0,5.0,50,vegan,los angeles,34.04836,-118.24071
+20,Vromage,2.0,5.0,204,vegan,los angeles,34.0978951,-118.3643588
+21,Pomegranate,2.0,4.5,148,vegan,los angeles,34.0734447,-118.3789681
+22,My Vegan Gold,2.0,4.5,688,vegan,los angeles,34.0951603,-118.2831401
+23,by CHLOE. Silver Lake,2.0,4.0,765,vegan,los angeles,34.1034616314329,-118.258644203241
+24,Real Food Daily,2.0,4.0,1309,vegan,los angeles,34.07858,-118.37618
+25,Au Lac,2.0,4.0,790,vegan,los angeles,34.0563590452504,-118.250936711212
+26,Asian Box,1.0,4.0,154,vegan,los angeles,34.0529343180276,-118.257182712459
+27,Jewel,2.0,4.5,139,vegan,los angeles,34.08307,-118.28427
+28,Trejo's Tacos - USC Village,2.0,3.0,111,vegan,los angeles,34.0244372,-118.2846956
+29,Trejo's Coffee & Donuts,2.0,3.5,334,vegan,los angeles,34.0908238579992,-118.338493266667
+30,La China Oaxaquena,1.0,4.0,13,vegan,los angeles,34.090472,-118.314063
+31,Stuff I Eat,2.0,4.5,1160,vegan,los angeles,33.963434,-118.3518651
+32,Flore Vegan Cuisine,2.0,4.0,1115,vegan,los angeles,34.0912104093655,-118.279427202132
+33,Doomie's NextMex,2.0,4.0,138,vegan,los angeles,34.0941,-118.32734
+34,PBJ.LA,1.0,4.0,299,vegan,los angeles,34.0505289,-118.2486189
+35,Tocaya Organica - Hollywood,2.0,4.0,104,vegan,los angeles,34.09762,-118.33304
+36,Azla,1.0,4.5,338,vegan,los angeles,34.0173639,-118.278314392065
+37,Fala Bar,2.0,4.5,305,vegan,los angeles,34.0838803743991,-118.358774911268
+38,Mega Vega,1.6782608695652175,4.5,3,vegan,los angeles,34.04552,-118.25087
+39,Counterpart Deli,1.6782608695652175,4.0,36,vegan,los angeles,34.0813699307965,-118.254696540534
+40,Elderberries Threefold Cafe,2.0,4.0,367,vegan,los angeles,34.0978951,-118.354408
+41,Equelecuá Cuban Cafe,2.0,4.5,652,vegan,los angeles,33.9608934,-118.3761448
+42,Burgerlords,1.0,4.0,628,vegan,los angeles,34.0652390326287,-118.237212073467
+43,Cocobella Creamery,1.0,4.5,264,vegan,los angeles,34.0941,-118.32734
+44,Araya's Place - Thai Vegan Restaurant,2.0,4.5,575,vegan,los angeles,34.0763201,-118.3659884
+45,The Punchbowl,2.0,4.5,367,vegan,los angeles,34.1037293336785,-118.2912730413
+46,Citizen Mustard,1.6782608695652175,4.5,10,vegan,los angeles,34.0690002441406,-118.350242614746
+47,Rahel Ethiopian Vegan Cuisine,2.0,4.0,544,vegan,los angeles,34.05687,-118.36475
+48,Veggie Grill,2.0,4.0,689,vegan,los angeles,34.0737228305452,-118.360984763229
+49,Green Leaves Vegan,1.0,4.0,742,vegan,los angeles,34.1031476,-118.2875779
+50,Panaderia Cuscatleca,1.0,4.0,47,vegan,los angeles,34.044367,-118.2766638
+51,Veggie Grill,2.0,4.5,968,vegan,los angeles,34.0975154567746,-118.365265698114
+52,Cafe Gratitude - Arts District,2.0,4.0,832,vegan,los angeles,34.0456533607716,-118.232452260713
+53,Pura Vita,1.6782608695652175,4.5,146,vegan,los angeles,34.0906660191608,-118.369686045023
+54,Beelman's,2.0,4.5,214,vegan,los angeles,34.04552,-118.25087
+55,Dayglow,2.0,4.5,92,vegan,los angeles,34.085563531674,-118.275099008793
+56,Cinnaholic,1.0,4.0,215,vegan,los angeles,34.0771457722991,-118.264783054594
+57,Stamp Proper Foods,2.0,4.0,250,vegan,los angeles,34.1114549,-118.287726
+58,Wild Living Foods,2.0,4.5,331,vegan,los angeles,34.042987,-118.2525401
+59,The Good Karma Cafe,1.0,4.5,53,vegan,los angeles,34.02324,-118.28417
+60,Gratitude Kitchen & Bar,2.0,4.0,242,vegan,los angeles,34.0708531588601,-118.401442542672
+61,The Ridiculous Baking,1.0,4.0,37,vegan,los angeles,34.099735877207,-118.328407447967
+62,Pizzanista!,1.0,4.0,989,vegan,los angeles,34.034836,-118.231605
+63,Bianca's Deli & Café,1.0,4.5,131,vegan,los angeles,34.0959968566895,-118.292129516602
+64,maggies thai kitchen,1.6782608695652175,5.0,1,vegan,los angeles,34.07167,-118.40258
+65,Vegetable,2.0,4.5,387,vegan,los angeles,34.1350067,-118.3616097
+66,Everytable,1.0,4.5,75,vegan,los angeles,34.01043,-118.33666
+67,Fruit Cart Girl,1.0,5.0,16,vegan,los angeles,34.0518982858281,-118.251896892197
+68,Vegan Glory,2.0,4.0,830,vegan,los angeles,34.0761749,-118.372852
+69,Veggie House,1.0,4.5,410,vegan,los angeles,34.12858,-118.34787
+70,Bodhi Bowl,1.0,4.5,236,vegan,los angeles,34.04582,-118.2606
+71,zpizza,1.0,4.0,484,vegan,los angeles,34.0852999,-118.38405
+72,Califlower Pizza,1.6782608695652175,3.5,19,vegan,los angeles,34.0398651,-118.2987174
+73,The Frankenstand,1.0,4.5,66,vegan,los angeles,34.1072387695312,-118.364761352539
+74,Cruzer Pizza 100% Vegan,2.0,4.5,714,vegan,los angeles,34.101988487468,-118.286900938097
+75,Avocadamama,1.0,4.5,13,vegan,los angeles,34.11491,-118.24001
+76,Glowing Juices/ Vegan Market,2.0,5.0,105,vegan,los angeles,34.0812581,-118.2547795
+77,Soup Goddess,1.6782608695652175,4.5,41,vegan,los angeles,34.15218,-118.34308
+78,Palette Food and Juice,2.0,4.5,128,vegan,los angeles,34.11802,-118.26142
+79,The Vegan Joint,2.0,4.0,201,vegan,los angeles,34.0357895,-118.2513123
+80,Bulan Thai Vegetarian Kitchen,2.0,4.0,668,vegan,los angeles,34.09182,-118.28216
+81,Fala Bar,1.6782608695652175,3.0,9,vegan,los angeles,34.05996,-118.41982
+82,Veggietize Me,1.6782608695652175,5.0,1,vegan,los angeles,34.16716,-118.37704
+83,Jackfruit Cafe,2.0,4.5,108,vegan,los angeles,34.1615135,-118.3403506
+84,Lento Market,1.0,5.0,44,vegan,los angeles,34.07101,-118.25093
+85,World Empanadas,1.0,4.5,800,vegan,los angeles,34.1761379,-118.321807
+86,Gokoku Vegetarian Ramen Shop,2.0,4.5,322,vegan,los angeles,34.14532,-118.36317
+87,Pizza Studio,1.0,4.0,487,vegan,los angeles,34.018666,-118.281577
+88,Purgatory Pizza,2.0,4.0,685,vegan,los angeles,34.0475041,-118.2254502
+89,Samosa House and Bharat Bazaar,1.0,4.0,950,vegan,los angeles,34.000963,-118.416193
+90,Raw Junkies,2.0,5.0,97,vegan,los angeles,34.1449831402238,-118.414659189433
+91,T&T Lifestyle,1.6782608695652175,4.5,14,vegan,los angeles,34.0306379954888,-118.273381490957
+92,Tierra Cafe,1.0,4.0,168,vegan,los angeles,34.0496399,-118.25895
+93,MatchaBar,2.0,3.5,153,vegan,los angeles,34.0894171500353,-118.27683952415
+94,LA's Best Salad Bar powered by Mrs. Winston’s,2.0,4.5,45,vegan,los angeles,34.04681,-118.26172
+95,Milky's Frozen Yogurt,1.0,4.0,175,vegan,los angeles,34.0539703,-118.3839874
+96,Something Vegan,2.0,4.5,220,vegan,los angeles,34.1520193,-118.3493853
+97,Todo Verde,1.0,4.5,26,vegan,los angeles,34.0358081,-118.2299336
+98,Lemon Zest Cafe,2.0,4.5,486,vegan,los angeles,34.14668,-118.23995
+99,The Vegan Joint,1.0,4.0,778,vegan,los angeles,34.0285966348823,-118.411620547176
+100,Roots & Rye,1.0,5.0,78,vegan,los angeles,34.07704,-118.26469
+101,Dear Mama,1.6782608695652175,5.0,1,vegan,los angeles,34.05349,-118.24532
+102,Solar Return,1.6782608695652175,5.0,5,vegan,los angeles,34.0755140800334,-118.253621645272
+103,Localita & The Badasserie,2.0,4.0,245,vegan,los angeles,34.0416726,-118.2530077
+104,Rawk-n-Roll Cuisine,1.6782608695652175,5.0,1,vegan,los angeles,34.0943412780762,-118.381484985352
+105,HOPE,2.0,4.5,841,vegan,los angeles,34.1436294,-118.3919406
+106,Kale & Quinoa Vegan Cafe',2.0,4.0,218,vegan,los angeles,34.14061,-118.37156
+107,True Earth Vegan,1.0,4.0,180,vegan,los angeles,34.16464,-118.37204
+108,Word Of Mouth Truck,2.0,4.0,48,vegan,los angeles,33.9788284301758,-118.249931335449
+109,Tonys Darts Away,2.0,4.5,1189,vegan,los angeles,34.17462,-118.3266906
+110,Veg-It-Up Grill On Wheels,2.0,3.5,19,vegan,los angeles,34.05349,-118.24532
+111,T-voni,2.0,5.0,2,vegan,los angeles,34.07021,-118.35103
+112,Leonor's Mexican Vegetarian Restaurant,1.0,4.0,485,vegan,los angeles,34.150614,-118.404608
+113,Vurger Guyz,1.6782608695652175,4.0,4,vegan,los angeles,34.05289,-118.26351
+114,The Window at Robertson,2.0,4.5,7,vegan,los angeles,34.02708,-118.3904
+115,Rising Hearts Bakery,2.0,4.0,268,vegan,los angeles,34.01442486206,-118.408061943344
+116,Lotus Vegan,2.0,4.5,991,vegan,los angeles,34.1561199,-118.3694993
+117,Golden China Restaurant,2.0,3.5,278,vegan,los angeles,34.0275261,-118.3911781
+118,The Juice Parlor,2.0,5.0,232,vegan,los angeles,34.1735542,-118.3614351
+119,Pizza Boy,2.0,4.5,524,vegan,los angeles,34.1428476,-118.2366086
+120,Live Right Acai,1.0,4.0,395,vegan,los angeles,34.0104490722013,-118.41094467129
+121,Cheeri Cheeri,1.6782608695652175,4.0,1,vegan,los angeles,34.05349,-118.24532
+122,Plantae Bar Pop-Up,1.6782608695652175,5.0,1,vegan,los angeles,34.033851,-118.2401
+123,Fruition Tacos,1.6782608695652175,5.0,3,vegan,los angeles,34.05615,-118.23596
+124,Green Corner Cafe,2.0,4.5,381,vegan,los angeles,34.1594551,-118.267205
+125,Pizza Studio,1.0,4.0,255,vegan,los angeles,34.168270111084,-118.346748352051
+126,Mac n' Cheese Rebel,1.6782608695652175,4.5,17,vegan,los angeles,34.1217589601142,-118.206167250797
+127,Lettuce Feast,1.6782608695652175,4.0,35,vegan,los angeles,33.97853,-118.2497
+128,Greenhouse Juice Bar,1.0,4.5,144,vegan,los angeles,34.1659885,-118.3754699
+129,Enjoyer,1.0,4.5,175,vegan,los angeles,34.1443847,-118.2587378
+130,Thai Vegan - Beverly Hills,2.0,4.5,42,vegan,los angeles,34.0654620780989,-118.412092588842
+131,Kind Kreme,2.0,3.0,15,vegan,los angeles,34.0072173324332,-118.412059200263
+132,Baby Love Sweetery,1.6782608695652175,4.5,12,vegan,los angeles,34.16821,-118.39846
+133,Urban Dinner Socials,2.0,4.0,1,vegan,los angeles,34.1157903,-118.2445086
+134,Acai Dream Bowl Truck,2.0,4.5,37,vegan,los angeles,34.0162709608561,-118.490619000437
+135,Trejo's Tacos - LAX,1.6782608695652175,2.5,43,vegan,los angeles,33.9444,-118.39844
+136,Mama Minas Sweets & Treats,1.0,5.0,20,vegan,los angeles,34.2856864929199,-118.604530334473
+0,L'Assiette Steak Frites,2.0,4.0,636,steak,los angeles,34.0832991,-118.3458381
+1,The Penthouse at Mastro's,4.0,4.0,4567,steak,los angeles,34.068819,-118.398845
+2,Franco's,2.0,4.0,1112,steak,los angeles,34.0976043,-118.365233
+3,The Stinking Rose,2.0,4.0,4023,steak,los angeles,34.06642,-118.37659
+4,Del Frisco’s Double Eagle Steakhouse,2.7580645161290325,4.5,4,steak,los angeles,34.060136205607,-118.41857213527
+5,Musso & Frank Grill,3.0,4.0,1378,steak,los angeles,34.101802,-118.335394
+6,Taylor's Steakhouse,3.0,4.0,1048,steak,los angeles,34.05793,-118.3023
+7,Fogo de Chão Brazilian Steakhouse,4.0,4.0,3633,steak,los angeles,34.06855,-118.37667
+8,Lala's Argentine Grill,2.0,4.0,1836,steak,los angeles,34.083643,-118.347297
+9,Saddle Ranch Chop House,2.0,3.5,1747,steak,los angeles,34.095603,-118.37238
+10,Lawry's The Prime Rib - Beverly Hills,3.0,4.0,3639,steak,los angeles,34.0678344219814,-118.376046
+11,Fogo de Chão Brazilian Steakhouse,3.0,3.5,907,steak,los angeles,34.04771,-118.26113
+12,Carlitos Gardel Argentine Steakhouse,3.0,4.5,925,steak,los angeles,34.0839249,-118.3630799
+13,H&H Brazilian Steakhouse,2.7580645161290325,5.0,1,steak,los angeles,34.04665,-118.25616
+14,BOA Steakhouse,4.0,4.0,1669,steak,los angeles,34.089757,-118.392696
+15,Prime Cutts,2.0,4.0,197,steak,los angeles,34.0725807877071,-118.370591117691
+16,La Boucherie,4.0,4.0,267,steak,los angeles,34.0497318674171,-118.260605968262
+17,Ocean Prime,3.0,4.0,757,steak,los angeles,34.06763,-118.40262
+18,Fleming's Prime Steakhouse & Wine Bar,3.0,4.0,1468,steak,los angeles,34.0446963342719,-118.26536453203
+19,Malbec Argentinean Cuisine,2.0,4.0,698,steak,los angeles,34.152515411377,-118.35245513916
+20,Malibu Eatery,2.0,3.5,222,steak,los angeles,34.0835949,-118.3409069
+21,CUT,4.0,4.0,1545,steak,los angeles,34.0666496318509,-118.40068417791
+22,Nick + Stef's Steakhouse,3.0,4.0,520,steak,los angeles,34.052719,-118.252817
+23,Sizzler,2.0,3.0,69,steak,los angeles,34.0591859,-118.308697
+24,Samba Brazilian Steakhouse and Lounge,3.0,3.0,1189,steak,los angeles,34.1366062252888,-118.351542149738
+25,LA Prime,4.0,4.0,854,steak,los angeles,34.0522793152641,-118.255719402447
+26,Tony Roma's,2.0,3.0,409,steak,los angeles,34.1358603493885,-118.353715086596
+27,Pacific Dining Car,4.0,3.5,1145,steak,los angeles,34.0553,-118.26596
+28,The Palm Beverly Hills,4.0,3.5,268,steak,los angeles,34.0688,-118.39957
+29,Ruth's Chris Steak House,3.0,4.0,943,steak,los angeles,34.064029,-118.398768
+30,APL Restaurant,4.0,3.5,161,steak,los angeles,34.10128,-118.32632
+31,Morton's The Steakhouse,4.0,4.0,562,steak,los angeles,34.0706149635469,-118.376750797033
+32,The Palm Los Angeles,3.0,3.5,631,steak,los angeles,34.0427007479531,-118.263987713492
+33,The Grill On The Alley,3.0,4.0,391,steak,los angeles,34.0672506,-118.402123
+34,Sizzler,2.0,3.0,182,steak,los angeles,34.066853,-118.291214
+35,Mastro's Steakhouse,4.0,4.0,539,steak,los angeles,34.0687914564574,-118.398764288361
+36,The Counter Sunset,2.0,3.5,560,steak,los angeles,34.0982362,-118.3625136
+37,The Smoke House Restaurant,3.0,3.5,1168,steak,los angeles,34.1458028,-118.3413811
+38,La Gondola Kosher Restaurant and Catering,3.0,3.5,204,steak,los angeles,34.06739,-118.38841
+39,Terra,3.0,3.5,265,steak,los angeles,34.0605204099084,-118.418410951892
+40,Claim Jumper Restaurants,2.0,3.0,377,steak,los angeles,34.152401,-118.337828
+41,Lala's Argentine Grill,2.0,4.5,57,steak,los angeles,34.0418639,-118.2550664
+42,Sizzler,2.0,4.0,267,steak,los angeles,34.12591,-118.26336
+43,Bourbon Steak,3.0,4.0,875,steak,los angeles,34.1427476339728,-118.255254419442
+44,Jar,3.0,3.5,1022,steak,los angeles,34.0762790434639,-118.368797974334
+45,Wolfgang's Steakhouse,4.0,3.5,473,steak,los angeles,34.0712497,-118.4016988
+46,Morton's The Steakhouse,3.0,3.5,679,steak,los angeles,34.0490894,-118.2605847
+47,Shiloh’s,3.0,4.0,200,steak,los angeles,34.0555572509766,-118.387062072754
+48,JW's Steakhouse,3.0,4.0,115,steak,los angeles,33.946460723877,-118.384498596191
+49,Gauchos Village,3.0,3.5,896,steak,los angeles,34.1474972418266,-118.254362618557
+50,Outback Steakhouse,2.0,3.0,352,steak,los angeles,34.1448424312194,-118.25489566835
+51,Damon's Steak House,2.0,4.0,947,steak,los angeles,34.15061,-118.25547
+52,The Restaurant at Montage Beverly Hills,2.7580645161290325,4.0,18,steak,los angeles,34.067756,-118.398912
+53,Black Angus Steakhouse,2.0,3.5,490,steak,los angeles,34.178196,-118.308754
+54,Morton's The Steakhouse,4.0,3.5,477,steak,los angeles,34.1535374555087,-118.336225077728
+55,Sizzler,2.0,3.5,193,steak,los angeles,33.98682,-118.39594
+56,Yerevan Steak House,2.0,4.5,128,steak,los angeles,34.175356,-118.3807779
+57,Riordan's Tavern,2.0,3.0,253,steak,los angeles,34.0465483825785,-118.262597092992
+58,George Petrelli Steak House,2.0,3.5,285,steak,los angeles,33.98941,-118.39577
+59,Sizzler,2.0,3.5,72,steak,los angeles,33.9600027,-118.3442614
+60,La Vaca Brazilian Grill,2.0,3.5,102,steak,los angeles,34.1450261218035,-118.259265013039
+61,Sizzler,2.0,2.5,91,steak,los angeles,34.17089,-118.3488
+62,California Steak & Fries,2.0,2.0,71,steak,los angeles,33.985827,-118.392712
+63,Sizzler,2.0,3.5,90,steak,los angeles,33.95953,-118.38472
+64,96th Street Bistro,2.0,3.0,38,steak,los angeles,33.949074,-118.385434
+65,Cheese Steak Plus,2.7580645161290325,3.0,2,steak,los angeles,34.03343,-118.25216
+66,Consolidated Ribs,2.7580645161290325,1.0,1,steak,los angeles,34.1555366516113,-118.254371643066
+67,Sizzler,2.7580645161290325,1.5,2,steak,los angeles,33.9868264474719,-118.395935004595
+0,Cornish Pasty,2.0,4.5,225,vegan,boston,42.349712092998,-71.0891945599281
+1,Life Alive,2.0,4.5,1369,vegan,boston,42.366593014329,-71.105495948582
+2,Cuong's Vegan Sandwiches,1.0,4.5,112,vegan,boston,42.35145,-71.06254
+3,Life Alive,1.75,4.0,56,vegan,boston,42.35044,-71.11526
+4,My Thai Vegan Cafe,2.0,4.0,801,vegan,boston,42.3514659685996,-71.0625566545629
+5,Cocobeet,2.0,4.5,219,vegan,boston,42.35953,-71.05875
+6,by CHLOE. Boston Seaport,2.0,3.5,246,vegan,boston,42.3511251018597,-71.0442745532153
+7,Whole Heart Provisions,2.0,4.5,47,vegan,boston,42.362109459918,-71.098602126581
+8,Sassafras,2.0,4.5,65,vegan,boston,42.39956,-71.11187
+9,by CHLOE. Fenway,2.0,3.5,171,vegan,boston,42.34465,-71.09951
+10,Whole Heart Provisions,2.0,4.5,283,vegan,boston,42.353836,-71.13726
+11,Veggie Crust,2.0,4.5,175,vegan,boston,42.382399,-71.102574
+12,by CHLOE. Back Bay,1.75,3.5,36,vegan,boston,42.35178,-71.07209
+13,Fiore's Bakery,1.0,4.0,325,vegan,boston,42.307928,-71.115828
+14,Whole Heart Provisions,1.75,4.5,4,vegan,boston,42.37299,-71.11822
+15,Oasis Vegan Veggie Parlor,1.0,4.5,54,vegan,boston,42.2996327702416,-71.0738489759062
+16,Taco Party,1.0,4.5,183,vegan,boston,42.4001471988082,-71.1124002274804
+17,Fruition Vegan Kitchen,2.0,5.0,53,vegan,boston,42.4211001306727,-71.1321150732434
+18,Nourish Your Soul,1.75,4.0,10,vegan,boston,42.36094,-71.06807
+19,VO2 Vegan Cafe,2.0,4.5,107,vegan,boston,42.36964,-71.11127
+20,Mexicali Burrito Co,1.0,3.0,129,vegan,boston,42.3627799680252,-71.091456413269
+21,Grasshopper Restaurant,2.0,4.0,552,vegan,boston,42.35378,-71.13746
+22,Nussli 118,2.0,5.0,5,vegan,boston,42.3944199,-71.12664
+23,Red Lentil Vegetarian & Vegan Restaurant,2.0,4.0,588,vegan,boston,42.370995,-71.1585523
+24,The Juice Press,3.0,4.0,12,vegan,boston,42.3511144460926,-71.0442535377145
+25,Tikkaway Fresh Indian Grill,1.0,4.0,101,vegan,boston,42.350888388135,-71.0462572274013
+26,Zhu,2.0,4.0,122,vegan,boston,42.4048616936833,-71.1414342230341
+27,Littleburg Vegetable Kitchen,1.75,4.0,1,vegan,boston,42.40552,-71.14219
+28,Blue State Coffee,1.0,4.0,200,vegan,boston,42.35192,-71.1188899
+29,Jennifer Lee's Gourmet Bakery,1.0,3.0,41,vegan,boston,42.3619511,-71.057115
+30,Thrive Cafe,1.75,4.5,18,vegan,boston,42.4052949,-71.1414123
+31,Rhythm 'n Wraps,1.0,4.5,47,vegan,boston,42.3934593200684,-71.131477355957
+32,Juice Press,1.75,3.0,3,vegan,boston,42.35614,-71.05407
+33,Bartleby's Seitan Stand,1.75,5.0,17,vegan,boston,42.35866,-71.0567499
+34,Nourish Your Soul,2.0,4.0,39,vegan,boston,42.4216936192844,-71.1328050209336
+35,Nourish Your Soul,3.0,3.0,17,vegan,boston,42.45199,-71.13717
+0,75 Chestnut,2.0,4.0,443,steak,boston,42.35695,-71.07097
+1,Grill 23 & Bar,4.0,4.0,941,steak,boston,42.3494218727725,-71.0720500564835
+2,Strip By Strega,4.0,4.0,266,steak,boston,42.35068,-71.06991
+3,Abe & Louie's,3.0,4.0,1244,steak,boston,42.3492240905762,-71.0815887451172
+4,The Butcher Shop,3.0,4.0,489,steak,boston,42.34376,-71.071454
+5,Boston Chops,3.0,4.0,532,steak,boston,42.3415074053928,-71.0696210990184
+6,Ocean Prime,3.0,4.0,351,steak,boston,42.3512063,-71.0440255
+7,Fogo de Chão Brazilian Steakhouse,3.0,4.0,681,steak,boston,42.34880756427,-71.077162199668
+8,Davio's,3.0,4.0,496,steak,boston,42.3502377375106,-71.0701250997561
+9,The Capital Grille,4.0,4.5,854,steak,boston,42.3478110031284,-71.0851110928626
+10,Mooo Restaurant,4.0,4.0,797,steak,boston,42.3583014944831,-71.0619811489821
+11,Del Frisco's Double Eagle Steakhouse,4.0,3.5,908,steak,boston,42.3489088651761,-71.0384945153269
+12,Cafe Mami,1.0,4.0,485,steak,boston,42.3874328923611,-71.1186972562476
+13,Fleming's Prime Steakhouse & Wine Bar - Boston,3.0,4.0,643,steak,boston,42.350696773753,-71.06805379594
+14,Oliveira's Steak House,2.0,4.0,92,steak,boston,42.3769684,-71.0301895
+15,Texas Roadhouse,2.0,3.5,450,steak,boston,42.400135981714,-71.06967888918
+16,Chart House,3.0,3.0,604,steak,boston,42.3601658329676,-71.0494595021146
+17,Boston Chops Downtown,3.0,3.5,55,steak,boston,42.35524,-71.06145
+18,Mastro's Ocean Club,4.0,3.5,129,steak,boston,42.3547282602522,-71.0444986494599
+19,Outback Steakhouse,2.0,2.5,211,steak,boston,42.3953967732796,-71.0807689164168
+20,Ruth's Chris Steak House,4.0,4.0,757,steak,boston,42.358141,-71.059337
+21,Morton's The Steakhouse,4.0,4.0,306,steak,boston,42.349116820038,-71.0403496026993
+22,Smith & Wollensky,4.0,3.5,313,steak,boston,42.35288,-71.052535
+23,La Brasa,2.0,3.5,304,steak,boston,42.3877651174269,-71.0841531184943
+24,Tango Restaurant,3.0,3.5,433,steak,boston,42.4146995544434,-71.1520767211914
+25,OSAKA Japanese Sushi & Steak House,2.0,3.5,434,steak,boston,42.3430915921926,-71.1218639463186
+26,The Palm Boston,3.0,3.5,197,steak,boston,42.3554769738919,-71.0521179563446
+27,Stockyard Restaurant,3.0,4.0,274,steak,boston,42.357783,-71.1486165
+28,Bisuteki Japanese Steak House,2.0,3.0,148,steak,boston,42.3586699,-71.11471
+29,North 26 Restaurant and Bar,2.0,3.5,173,steak,boston,42.3610124719964,-71.0560464900237
+30,Mount Vernon,2.0,3.5,197,steak,boston,42.3859114,-71.0783483
+31,Oasis Brazilian Steakhouse,2.0,4.0,311,steak,boston,42.40525,-71.10824
+32,McCormick & Schmick's Seafood & Steaks,2.0,2.5,380,steak,boston,42.3604507,-71.0557034
+33,Del Friscos Double Eagle Steakhouse,2.6136363636363638,3.5,39,steak,boston,42.3480192,-71.0843872
+34,Frank's Steak House,2.0,3.5,256,steak,boston,42.39533,-71.12833
+35,Philadelphia Steak & Hoagie,1.0,3.0,26,steak,boston,42.3594635586149,-71.0557079315186
+36,Boston Wing-It,1.0,3.0,238,steak,boston,42.35089,-71.12759
+37,Alex's Kitchen,2.0,4.5,53,steak,boston,42.3685532,-71.1605072
+38,Oliveira's Restaurant,2.0,3.5,118,steak,boston,42.4157,-71.04738
+39,Beachmont Roast Beef,1.0,4.0,66,steak,boston,42.3975567796367,-70.9921733711296
+40,The Industry,3.0,3.5,123,steak,boston,42.28395,-71.0553
+41,Midwest Grill Brazilian BBQ,2.0,3.0,371,steak,boston,42.3728530184518,-71.09603
+42,Charley's Philly Steaks,2.6136363636363638,4.0,1,steak,boston,42.3387382,-71.1072127
+43,Charley's Philly Steak,2.6136363636363638,3.0,5,steak,boston,42.3558276992088,-71.0601618051895
+44,Bisuteki Japanese Steakhouse,3.0,2.5,7,steak,boston,42.429512,-71.014893
+45,Tokyo Japanese Steak House,2.0,3.0,108,steak,boston,42.46163,-71.02819
+46,Old Railroad Cafe,1.0,3.5,81,steak,boston,42.2465388,-71.032921
+0,Trill taqueria,1.5348837209302326,5.0,5,vegan,austin,30.26133,-97.71423
+1,The Beer Plant,2.0,4.0,314,vegan,austin,30.2966658,-97.7676046
+2,True Food Kitchen,2.0,4.5,764,vegan,austin,30.2672474,-97.7520856
+3,Milky Way Shakes,1.0,5.0,33,vegan,austin,30.29551,-97.74174
+4,Citizen Eatery,2.0,4.0,367,vegan,austin,30.3216936764352,-97.7389393582665
+5,Habesha Ethiopian Restaurant & Bar,2.0,4.0,278,vegan,austin,30.3211817,-97.706325
+6,Rabbit Food Grocery,2.0,5.0,54,vegan,austin,30.2976016,-97.7673076
+7,Flower Child,2.0,4.0,166,vegan,austin,30.2657509,-97.7488719
+8,Burrito Factory,1.0,4.5,112,vegan,austin,30.2833881378174,-97.7413177490234
+9,Bouldin Creek Cafe,1.0,4.5,2000,vegan,austin,30.24646,-97.75677
+10,Bananarchy,1.0,4.5,62,vegan,austin,30.2883451,-97.7416832
+11,Arlo's,2.0,4.5,81,vegan,austin,30.29551,-97.7417399
+12,Bistro Vonish,2.0,4.5,137,vegan,austin,30.3152493228979,-97.7165968411313
+13,The Kushari Company,1.5348837209302326,5.0,1,vegan,austin,30.2874328,-97.7418931
+14,Counter Culture,2.0,4.5,684,vegan,austin,30.254728,-97.717401
+15,Mother's Cafe & Garden,2.0,4.0,884,vegan,austin,30.304374,-97.726005
+16,Arlo's,1.0,4.5,525,vegan,austin,30.26942,-97.73618
+17,Next Level Burger,1.5348837209302326,4.0,38,vegan,austin,30.27065,-97.7535599
+18,Dolce Seven,1.5348837209302326,5.0,1,vegan,austin,30.221170425415,-97.7479400634766
+19,ATX FOOD CO,1.5348837209302326,5.0,14,vegan,austin,30.2621,-97.7619
+20,Papadom,2.0,4.0,132,vegan,austin,30.26611,-97.74516
+21,Conscious Cravings,1.0,4.0,51,vegan,austin,30.29655,-97.70742
+22,Sweet Ritual,1.0,4.5,531,vegan,austin,30.30608,-97.71523
+23,Arlo's,1.0,4.5,78,vegan,austin,30.262648,-97.724139
+24,Happy Vegan Baker,1.0,5.0,21,vegan,austin,30.3608283996582,-97.7349090576172
+25,Cool Beans,1.0,4.5,78,vegan,austin,30.2955044,-97.7417585
+26,Taste of Ethiopia,2.0,4.5,203,vegan,austin,30.2259650875173,-97.7619186684117
+27,JuiceLand,2.0,4.5,62,vegan,austin,30.295632479293,-97.7424058846148
+28,Veggie Heaven,1.0,3.5,525,vegan,austin,30.27432,-97.76448
+29,Conscious Cravings,1.0,4.0,239,vegan,austin,30.25096,-97.75421
+30,Doggie Style,1.0,4.5,48,vegan,austin,30.24441,-97.75808
+31,The Vegan Nom,1.0,4.5,372,vegan,austin,30.255168,-97.718217
+32,Li'l Nonna's,2.0,4.5,105,vegan,austin,30.2416820526123,-97.7268676757812
+33,Plow Burger,1.0,4.5,63,vegan,austin,30.24172,-97.7269
+34,Alpaca Market,1.5348837209302326,5.0,5,vegan,austin,30.25841,-97.71143
+35,Nissi Vegan Mexican Cuisine VegMex,1.5348837209302326,5.0,21,vegan,austin,30.26914,-97.72843
+36,JuiceLand,2.0,4.0,107,vegan,austin,30.307195,-97.724816
+37,Salata,2.0,4.5,212,vegan,austin,30.3887770644236,-97.7329979878357
+38,Pieology Pizzeria,1.0,3.5,76,vegan,austin,30.306263,-97.708924
+39,JuiceLand,2.0,4.0,125,vegan,austin,30.277522,-97.772221
+40,NadaMoo!,1.0,4.5,54,vegan,austin,30.25054,-97.76547
+41,JuiceLand,2.0,4.0,154,vegan,austin,30.3492415,-97.7346104
+42,Mr Natural,1.0,3.5,244,vegan,austin,30.24726,-97.77752
+43,The Vegan Yacht,1.0,4.0,164,vegan,austin,30.2188160252696,-97.7954140305519
+44,Daily Juice Cafe,2.0,4.0,52,vegan,austin,30.368921,-97.72814
+45,Quick Fix Cuisine,2.0,5.0,44,vegan,austin,30.25323,-97.71297
+46,JuiceLand,1.5348837209302326,4.0,9,vegan,austin,30.24396,-97.75829
+47,Chutney,2.0,4.0,38,vegan,austin,30.415829,-97.697787
+48,JuiceLand,2.0,4.5,62,vegan,austin,30.25375,-97.71533
+49,Luv Fats Ice Cream,1.5348837209302326,5.0,1,vegan,austin,30.361120223999,-97.7349472045898
+50,Conans Pizza South,2.0,3.0,167,vegan,austin,30.2162208557129,-97.7983169555664
+51,JuiceLand,1.0,4.0,32,vegan,austin,30.20435,-97.67147
+52,Go Vegan San Antonio,1.5348837209302326,5.0,9,vegan,austin,29.5758873,-98.6247219
+0,"Truluck's Seafood, Steak and Crab House",3.0,4.5,698,steak,austin,30.26683,-97.74502
+1,Way South Philly Deli,2.0,4.5,137,steak,austin,30.3243479175908,-97.7399788442358
+2,Perry's Steakhouse & Grille - Downtown Austin,3.0,4.0,963,steak,austin,30.26916,-97.7426
+3,Garrison,2.7,4.5,47,steak,austin,30.26198,-97.73862
+4,III Forks,4.0,4.0,407,steak,austin,30.26435,-97.74676
+5,ALC Steaks,3.0,4.0,541,steak,austin,30.27712,-97.75098
+6,Eddie V's Prime Seafood,3.0,4.5,1012,steak,austin,30.26613,-97.74058
+7,Lonesome Dove Western Bistro,3.0,4.0,217,steak,austin,30.2673,-97.74428
+8,Snappy Salads,2.0,3.5,38,steak,austin,30.29214,-97.82798
+9,Fogo de Chão Brazilian Steakhouse,3.0,4.0,724,steak,austin,30.264116,-97.740806
+10,The Capital Grille,3.0,4.0,279,steak,austin,30.26633,-97.74464
+11,Bob's Steak & Chop House,3.0,4.0,337,steak,austin,30.2660236358643,-97.7460403442383
+12,Cafe Blue - Downtown,2.0,4.0,157,steak,austin,30.26365,-97.74084
+13,Ruth's Chris Steak House,4.0,4.0,287,steak,austin,30.2680442902426,-97.7435132861137
+14,The County Line,2.0,3.5,405,steak,austin,30.2976233367595,-97.8359489609215
+15,Fleming's Prime Steakhouse & Wine Bar,3.0,4.0,302,steak,austin,30.26374,-97.74129
+16,The Original Hoffbrau,2.0,3.5,128,steak,austin,30.2696797743256,-97.7492015067996
+17,Estância Brazilian Steakhouse,3.0,4.0,575,steak,austin,30.39326497962,-97.7474884023912
+18,Vince Young Steakhouse,3.0,4.0,399,steak,austin,30.26485,-97.74115
+19,Bartlett's,3.0,4.0,665,steak,austin,30.3567047119141,-97.7312469482422
+20,Paul Martin's Austin Grill,2.0,4.0,379,steak,austin,30.402853,-97.721297
+21,Truluck's,3.0,4.5,470,steak,austin,30.3952662489598,-97.7454305690891
+22,Fujiyama Japanese Steakhouse,2.0,3.5,209,steak,austin,30.4000757768012,-97.7485370635986
+23,Eddie V's Prime Seafood,3.0,4.5,413,steak,austin,30.389393,-97.752657
+24,LongHorn Steakhouse,2.0,3.0,129,steak,austin,30.232217,-97.816535
+25,Lynx Bar and Grill,2.0,3.0,1,steak,austin,30.319541,-97.705734
+26,Saltgrass Steak House,2.0,3.5,267,steak,austin,30.39771,-97.747062
+27,Outback Steakhouse,2.0,3.0,193,steak,austin,30.415783,-97.74723
+28,Fleming's Prime Steakhouse & Wine Bar,3.0,4.0,409,steak,austin,30.4032128248743,-97.72563715159
+29,Texas Land & Cattle,2.0,2.5,159,steak,austin,30.1997405547477,-97.7651052066775
+30,Steakhouse Supply,4.0,1.5,3,steak,austin,30.21594,-97.76106
+0,Veganaroma,2.0,4.0,133,vegan,miami,25.76435,-80.25779
+1,Amsterdam Falafelshop,1.0,4.5,181,vegan,miami,25.7044638,-80.2880526
+2,Beehive Juice Bar,1.0,4.0,207,vegan,miami,25.7331043262797,-80.3005219307619
+3,GLAM Vegan,2.0,4.5,267,vegan,miami,25.807959,-80.192705
+4,Vegan & Juice,1.0,5.0,270,vegan,miami,25.7675054830983,-80.3683320649429
+5,Love Life Cafe,2.0,4.0,138,vegan,miami,25.801367,-80.2032306
+6,Plant Miami,3.0,4.5,115,vegan,miami,25.80012,-80.19279
+7,Root n Seeds Cantina,1.72,5.0,3,vegan,miami,25.799263,-80.20042
+8,Pieology Pizzeria,2.0,4.0,225,vegan,miami,25.769164,-80.36019
+9,Choices Cafe - Coconut Grove,2.0,4.0,191,vegan,miami,25.7275199,-80.24108
+10,Courtney's Cookies,2.0,5.0,28,vegan,miami,25.7492294311523,-80.2629470825195
+11,Charly's Vegan Tacos,1.72,4.5,74,vegan,miami,25.7996946738857,-80.1982815563679
+12,Coconut Grove Saturday Organic Market,2.0,4.0,143,vegan,miami,25.7278702408075,-80.2468898892403
+13,Southern Sol Garden BBQ,1.72,4.0,26,vegan,miami,25.7275199,-80.24108
+14,Atlas Meat-Free Delicatessen,1.0,4.5,166,vegan,miami,25.8471706984416,-80.1954345404929
+15,Giardino Gourmet Salads,1.0,4.5,27,vegan,miami,25.77473,-80.19065
+16,Almalibre Açaí Bar,2.0,4.5,26,vegan,miami,25.7846699,-80.19018
+17,Raw South Juice,2.0,4.5,170,vegan,miami,25.6793137,-80.3185425
+18,Ice Dream Parlor,1.72,5.0,2,vegan,miami,25.7275199,-80.24108
+19,Delirio Fresh Co Express,2.0,4.0,23,vegan,miami,25.8095749,-80.3156156
+20,Manna Life Food,2.0,4.5,124,vegan,miami,25.77504,-80.190419
+21,Deezfruta Juice & Smoothies,1.0,4.5,13,vegan,miami,25.689764,-80.312318
+22,Bettersweet Bites,1.72,5.0,6,vegan,miami,25.8023436,-80.2224155
+23,Neo's Blender,1.72,3.0,2,vegan,miami,25.7275199,-80.24108
+24,CombinAsian,2.0,4.5,50,vegan,miami,25.79968,-80.19543
+25,Bunnie Cakes,1.0,4.0,390,vegan,miami,25.79952,-80.1911499
+26,Next Generation Pizza,2.0,4.5,23,vegan,miami,25.7275199,-80.24108
+27,Sano Food,2.0,3.5,49,vegan,miami,25.8404551,-80.3706516
+28,Chef Chloe and The Vegan Cafe,2.0,4.5,69,vegan,miami,25.8125,-80.1925
+29,Galerie Gourmet,1.72,5.0,1,vegan,miami,25.81092,-80.19849
+30,Carrot Express Midtown,2.0,3.5,72,vegan,miami,25.8078615,-80.1935165
+31,Reggae Beets Gourmet Food Truck,1.0,5.0,16,vegan,miami,26.247991,-80.1881168
+0,Nusr-Et,4.0,3.0,461,steak,miami,25.7639,-80.19062
+1,"Amigo Grill & Co, Casual Steakhouse",2.303030303030303,4.5,7,steak,miami,25.74938,-80.2565
+2,Peacock Garden Bistro,2.0,4.0,731,steak,miami,25.7269702206122,-80.2405763730163
+3,Perinola South American Table & Bar,2.0,4.0,86,steak,miami,25.80827,-80.3317299
+4,Prohibition Restaurant and Speakeasy,2.0,4.0,767,steak,miami,25.8083854,-80.1955203
+5,Manny's Wood Grill,2.0,4.5,49,steak,miami,25.79871,-80.33769
+6,Texas Roadhouse,2.0,4.0,407,steak,miami,25.7696468686623,-80.3421527917608
+7,Rincon Argentino,2.0,4.0,186,steak,miami,25.7472610473633,-80.2541732788086
+8,Fleming's Prime Steakhouse & Wine Bar - Coral Gables,3.0,4.5,450,steak,miami,25.74821,-80.25816
+9,Graziano's in the Gables,3.0,4.0,258,steak,miami,25.75087,-80.2625567
+10,Truluck's,3.0,4.5,879,steak,miami,25.7666322556485,-80.1901618736801
+11,Famous Dave's Doral,2.0,4.0,423,steak,miami,25.80923,-80.33012
+12,Outback Steakhouse,2.0,3.5,197,steak,miami,25.771963,-80.329201
+13,Ruth's Chris Steak House,3.0,4.0,248,steak,miami,25.7504747635622,-80.2610157430172
+14,La Cosecha Argentinian Steakhouse,2.0,4.5,67,steak,miami,25.8410631,-80.3118999
+15,Farofa,1.0,4.5,101,steak,miami,25.747856,-80.38666
+16,La Esquina del Lechón,2.0,4.0,288,steak,miami,25.82681,-80.33668
+17,Hereford Grill,3.0,4.0,83,steak,miami,25.7793492152395,-80.2642918759186
+18,Big Easy Wine Bar & Grill,2.0,4.0,277,steak,miami,25.7672437280416,-80.1932859420776
+19,Graziano's in Brickell,2.0,4.0,161,steak,miami,25.76739,-80.197
+20,Sabores Argentinos,2.0,4.5,12,steak,miami,25.746619,-80.350408
+21,Steak Brasil Churrascaria,2.0,4.0,332,steak,miami,25.7728313,-80.1920342
+22,El Toro Loco Churrascaria,2.0,4.5,12,steak,miami,25.80982,-80.31373
+23,El Toro Loco Churrascaria,2.0,4.5,92,steak,miami,25.6945692906289,-80.3005531802773
+24,Texas de Brazil,3.0,4.0,321,steak,miami,25.786315,-80.381074
+25,PM Fish & Steak House,3.0,4.0,362,steak,miami,25.7594251,-80.1936952
+26,Christy's,3.0,3.5,169,steak,miami,25.7439880371094,-80.2580718994141
+27,Graziano's in Bird Rd,2.0,4.0,294,steak,miami,25.733495158912,-80.3444845666565
+28,El Novillo Restaurant,2.0,3.5,160,steak,miami,25.733126,-80.3052799
+29,Edge Steak & Bar,3.0,4.0,361,steak,miami,25.7590147661881,-80.1916009563446
+30,Fleming's Prime Steakhouse & Wine Bar - Miami,3.0,4.5,89,steak,miami,25.76763,-80.19094
+31,Baires Grill Brickell,2.0,4.0,135,steak,miami,25.76398,-80.1941499
+32,Morton's The Steakhouse,3.0,3.0,258,steak,miami,25.7500938636836,-80.2582812309265
+33,Quinto La Huella,3.0,3.5,314,steak,miami,25.7666353,-80.192552
+34,Shula's 347 Grill,2.0,3.5,265,steak,miami,25.7050513024674,-80.2852535247803
+35,The Capital Grille,3.0,4.0,574,steak,miami,25.7695309499124,-80.1901772747993
+36,Texas de Brazil,3.0,4.0,94,steak,miami,25.690191,-80.3133
+37,Novecento Brickell,2.0,3.5,330,steak,miami,25.76022,-80.19267
+38,Bellmont Spanish Restaurant,3.0,3.5,112,steak,miami,25.7497214,-80.2615434
+39,Arson,2.0,4.5,63,steak,miami,25.7753681391478,-80.190337523818
+40,Don Davis Steakhouse,2.0,3.0,94,steak,miami,25.78327,-80.3233
+41,Los Gauchitos,2.0,3.0,38,steak,miami,25.7793405168368,-80.2663285643486
+42,Los Parrilleros,3.0,4.0,149,steak,miami,25.81217,-80.37173
+43,LongHorn Steakhouse,2.0,3.0,132,steak,miami,25.78799,-80.33733
+44,Olivos Restaurant,3.0,4.0,189,steak,miami,25.8120436104916,-80.3669408467659
+45,Dona Paulina,2.0,4.0,69,steak,miami,25.73371,-80.32875
+46,107 Steak & Bar,2.0,4.0,50,steak,miami,25.8040081,-80.3691051
+47,Porto Alegre Brazilian Grill & Meat Market,2.0,3.0,105,steak,miami,25.82949,-80.26515
+48,Parrillada Familiar Da Silva,2.0,4.0,56,steak,miami,25.8250995566396,-80.3708210065898
+49,BLT Prime,3.0,3.5,91,steak,miami,25.813974,-80.339884
+50,Porto Alegre Brazilian Grill & Bar,3.0,2.5,32,steak,miami,25.76162,-80.23898
+51,The Knife Parrilla Argentina - Doral,2.0,2.5,137,steak,miami,25.7858520723052,-80.3656837945816
+52,Samurai,2.0,3.5,444,steak,miami,25.644629,-80.334669
+53,Los Ranchos Steakhouse,2.0,3.0,214,steak,miami,25.643226,-80.336874
+54,Devon Seafood & Steak,3.0,4.0,590,steak,miami,25.6878743,-80.3844805
+55,Grill Argentino,2.0,4.0,91,steak,miami,25.6882285,-80.320269
+56,The Polo Grill Aboard Oceania Marina,2.303030303030303,5.0,5,steak,miami,25.8032741546631,-80.3315277099609
+57,Churrasco's,2.0,4.0,36,steak,miami,25.7993540624444,-80.3246272594551
+58,5300 Chophouse,2.0,3.5,40,steak,miami,25.82117,-80.33812
+59,Morton's The Steakhouse,3.0,3.5,142,steak,miami,25.762107,-80.192347
+60,La Fama Cafeteria,1.0,4.5,26,steak,miami,25.805414,-80.199577
+61,Shula's Bar & Grill,2.0,3.0,118,steak,miami,25.7977501006268,-80.274115120781
+62,Los Ranchos Steakhouse,2.0,3.0,59,steak,miami,25.76765,-80.36803
+63,Don Davis Restaurant Cafe,2.303030303030303,3.0,2,steak,miami,25.7978099,-80.32968
+64,Outback Steakhouse,2.0,3.0,145,steak,miami,25.647982354389,-80.3387963961563
+65,The Grill Club,2.303030303030303,2.0,1,steak,miami,25.75058,-80.25586
+66,Outback Steakhouse,2.0,3.0,265,steak,miami,25.6889779899094,-80.3861871883853
+67,Karnitas Grill,2.303030303030303,4.5,2,steak,miami,25.80724,-80.35927
+68,Lo de Jacinto,2.303030303030303,3.0,2,steak,miami,25.83086,-80.3562
+69,Cayena Restaurant,2.0,1.0,2,steak,miami,25.7650288939476,-80.1908458024263
+70,China Steakhouse,2.0,3.5,17,steak,miami,25.8604946,-80.3068085
+71,College Park Inn,1.0,3.5,33,steak,miami,25.671598,-80.371265
+72,Giraffas Brazillian Steak And Burgers,2.303030303030303,3.0,3,steak,miami,25.807777,-80.193497
+0,True Food Kitchen,2.0,4.0,2026,vegan,san diego,32.768746,-117.165327
+1,Muzita Abyssinian Bistro,2.0,4.5,1667,vegan,san diego,32.761872,-117.146156
+2,Ike's Love and Sandwiches,2.0,4.5,703,vegan,san diego,32.748715,-117.154848
+3,Civico 1845,2.0,4.5,1532,vegan,san diego,32.7243133815557,-117.168417719217
+4,World Beat Cafe,1.0,5.0,37,vegan,san diego,32.727417,-117.1484528
+5,Grains,2.0,4.5,358,vegan,san diego,32.76265,-117.14108
+6,Plumeria Vegetarian,2.0,4.5,1552,vegan,san diego,32.76208,-117.14607
+7,The PurpleMint Vegan Bistro,2.0,4.5,600,vegan,san diego,32.786779857337,-117.097464837134
+8,Evolution Fast Food,1.0,4.0,1506,vegan,san diego,32.73635,-117.16003
+9,Native Foods Cafe,2.0,4.0,467,vegan,san diego,32.820466066223,-117.179830782116
+10,Cafe Gratitude - San Diego,2.0,4.0,1285,vegan,san diego,32.72452,-117.17001
+11,Loving Hut,1.0,4.0,1075,vegan,san diego,32.7550451,-117.1447807
+12,Donna Jean,2.0,4.0,429,vegan,san diego,32.7361497658137,-117.16005217284
+13,Anthem Vegan,2.0,4.0,404,vegan,san diego,32.75491,-117.13597
+14,GIHON Ethiopian Restaurant,2.0,4.0,365,vegan,san diego,32.75569,-117.138
+15,Jyoti-Bihanga,2.0,4.5,692,vegan,san diego,32.7632461,-117.1216363
+16,Red House Pizza,2.0,4.5,551,vegan,san diego,32.7613974055798,-117.146126797687
+17,Pieology Pizzeria,1.0,4.0,540,vegan,san diego,32.8195029280585,-117.180605572561
+18,Plant Power Fast Food,1.0,4.5,757,vegan,san diego,32.7502233510473,-117.243188917637
+19,Veggilish,1.0,4.5,160,vegan,san diego,32.7173243,-117.1584649
+20,Native Foods - Point Loma,2.0,4.5,565,vegan,san diego,32.748477,-117.205813
+21,Veganic Thai Cafe,2.0,4.5,376,vegan,san diego,32.748324,-117.150835
+22,Peace Pies,2.0,4.5,335,vegan,san diego,32.74448,-117.23502
+23,Bite Food San Diego,2.0,4.5,19,vegan,san diego,32.74681,-117.16058
+24,Dark Horse Coffee Roasters,1.0,4.5,284,vegan,san diego,32.74719,-117.130359
+25,True Food Kitchen,2.0,4.0,236,vegan,san diego,32.8722975898304,-117.213312509625
+26,Pieology Pizzeria,1.0,4.0,433,vegan,san diego,32.7529612829421,-117.210026248271
+27,O.B. Garden Café,2.0,4.0,98,vegan,san diego,32.7493358365231,-117.242398703704
+28,Urban India,2.0,4.0,748,vegan,san diego,32.71629,-117.1608
+29,Amardeen Cafe,2.0,4.0,392,vegan,san diego,32.8677555607828,-117.205638707535
+30,First Friday Night Market SD,1.7073170731707317,4.0,2,vegan,san diego,32.75491,-117.13597
+31,Flora Bakeshop,1.7073170731707317,5.0,14,vegan,san diego,32.7501258850098,-117.137420654297
+32,The Nest,1.0,4.5,105,vegan,san diego,32.7466087341309,-117.252151489258
+33,Thotsakan Thai & Vegetarian Cuisine,2.0,4.5,124,vegan,san diego,32.7172877,-117.1591023
+34,Food Karma,1.7073170731707317,5.0,3,vegan,san diego,32.6987543510093,-117.140211943349
+35,Isabel's,2.0,4.0,1216,vegan,san diego,32.798357,-117.252521
+36,Veggie Grill,2.0,4.0,579,vegan,san diego,32.8696645031272,-117.212248625922
+37,Gourmet India Restaurant & Catering,2.0,4.0,692,vegan,san diego,32.7138851,-117.1612327
+38,Ocean Beach Kabob,2.0,4.0,246,vegan,san diego,32.7470685252987,-117.250833787278
+39,Southern Fried Vegan,2.0,3.0,61,vegan,san diego,32.8408508300781,-117.257797241211
+40,Roots,1.0,4.0,55,vegan,san diego,32.87878,-117.242549
+41,Seed + Sprout,1.0,3.0,28,vegan,san diego,32.8771649662756,-117.237356698791
+42,SAN IDLI,1.7073170731707317,3.5,55,vegan,san diego,32.8966478860687,-117.124088952184
+43,The Che Cafe Collective,1.0,4.0,66,vegan,san diego,32.8728966,-117.2393514
+44,The Green Bar,1.7073170731707317,4.0,3,vegan,san diego,32.746629676848,-117.250483928005
+45,Royal India Casual Dining,2.0,4.0,1,vegan,san diego,32.870646,-117.2115631
+0,Wood Ranch BBQ & Grill,2.0,4.0,772,steak,san diego,32.770207,-117.159508
+1,Rei Do Gado Brazilian Steakhouse,3.0,4.0,2053,steak,san diego,32.715251,-117.160962
+2,C Level,2.0,4.0,2727,steak,san diego,32.7241827616904,-117.188347987279
+3,Imperial Steakhouse Restaurant,2.0,4.0,243,steak,san diego,32.7301,-117.15969
+4,Pampas Argentine Grill,2.0,4.0,461,steak,san diego,32.8099629088191,-117.140980075692
+5,Born & Raised,4.0,4.0,841,steak,san diego,32.7246252324982,-117.168528623879
+6,Greystone Prime Steakhouse & Seafood,3.0,4.5,1590,steak,san diego,32.7123331,-117.1602749
+7,Cow By Bear,4.0,4.5,102,steak,san diego,32.7229537963867,-117.169792175293
+8,Hunter Steakhouse,2.0,3.5,490,steak,san diego,32.7608567307718,-117.187413387001
+9,Eddie V's Prime Seafood and Steaks,3.0,4.5,1074,steak,san diego,32.7104960760617,-117.170760632722
+10,Fuji Japanese Steakhouse & Sushi,2.0,3.5,493,steak,san diego,32.7638282775879,-117.155555725098
+11,Puerto La Boca,2.0,4.0,811,steak,san diego,32.72605,-117.1697
+12,Sizzler,2.0,4.0,346,steak,san diego,32.8108195,-117.1160163
+13,The Red Fox Steakhouse and Piano Bar,2.0,4.0,623,steak,san diego,32.7546119689941,-117.140678405762
+14,Brig HQ,2.0,4.5,15,steak,san diego,32.81315,-117.15545
+15,Fogo de Chão Brazilian Steakhouse,3.0,4.0,1504,steak,san diego,32.712352,-117.159369
+16,The Butcher Shop Steakhouse,2.0,4.0,860,steak,san diego,32.82998,-117.14087
+17,Del Frisco's Double Eagle Steakhouse,4.0,4.0,87,steak,san diego,32.7165198,-117.1716937
+18,Ruth's Chris Steak House,3.0,4.0,1297,steak,san diego,32.7186157498595,-117.17265205159
+19,Claim Jumper Restaurant & Saloon,2.0,3.0,253,steak,san diego,32.719634,-117.17277247919
+20,"Truluck's Seafood, Steak and Crab House",3.0,4.5,1653,steak,san diego,32.87064,-117.2242
+21,Lou & Mickey's,3.0,4.0,1499,steak,san diego,32.7076564,-117.1602423
+22,Outback Steakhouse,2.0,2.5,563,steak,san diego,32.76774,-117.149607
+23,Osetra Seafood and Steaks,3.0,4.0,1000,steak,san diego,32.714822,-117.160455
+24,Cowboy Star,3.0,4.0,1363,steak,san diego,32.71215,-117.15586
+25,Smokeyard BBQ And Chop Shop,2.0,4.0,288,steak,san diego,32.8693749903228,-117.212858641803
+26,Flemings Prime Steakhouse & Wine Bar - San Diego,3.0,4.5,931,steak,san diego,32.708505,-117.161279
+27,Turf Supper Club,2.0,4.0,790,steak,san diego,32.7173184645089,-117.140455130282
+28,Morton's The Steakhouse,4.0,4.0,634,steak,san diego,32.7091283228563,-117.162322998047
+29,Bully's East Prime Bistro Sports Bar,2.0,3.5,703,steak,san diego,32.7668078715275,-117.138064871349
+30,Black Angus Steakhouse,2.0,3.0,432,steak,san diego,32.7906009,-117.100089
+31,Shogun Kobe Restaurant,2.0,3.5,843,steak,san diego,32.83309,-117.13829
+32,Stake Chophouse & Bar,4.0,4.0,306,steak,san diego,32.6834015,-117.1785332
+33,Red O,3.0,4.0,557,steak,san diego,32.8735,-117.21241
+34,Larsen's Steakhouse,3.0,4.0,251,steak,san diego,32.8724050726247,-117.213762314996
+35,Fiddler's Green Restaurant,2.0,4.0,387,steak,san diego,32.72137,-117.22855
+36,STK San Diego,2.6382978723404253,4.0,175,steak,san diego,32.7138671,-117.1589196
+37,Roy's Restaurant,3.0,3.5,801,steak,san diego,32.7084535101538,-117.165804463893
+38,Donovan's Steak and Chop House,4.0,4.0,700,steak,san diego,32.7084549,-117.159419
+39,Outback Steakhouse,2.0,3.0,321,steak,san diego,32.83095,-117.20297
+40,Fleming's Prime Steakhouse - San Diego,3.0,4.0,1009,steak,san diego,32.8703730294544,-117.224412928242
+41,McCormick & Schmick's Seafood & Steaks,3.0,3.5,457,steak,san diego,32.70712,-117.159101468474
+42,Roy's Restaurant,3.0,4.0,1051,steak,san diego,32.8695853591237,-117.214596141759
+43,Sizzler,2.0,3.5,150,steak,san diego,32.7040209,-117.1004231
+44,New York Restaurant,2.6382978723404253,3.5,4,steak,san diego,32.748517,-117.207855
+45,Legendary McDini's,2.0,3.0,137,steak,san diego,32.6764207,-117.1057569
+46,KC Steak,2.6382978723404253,3.0,1,steak,san diego,32.710907,-117.159823
+47,Amuse,2.0,3.0,23,steak,san diego,32.872891,-117.215663
+48,Prince of Wales,4.0,2.5,9,steak,san diego,32.6806,-117.17892
+49,Adobe El Restaurante,2.0,3.0,44,steak,san diego,32.8838084,-117.2449668
+50,Philly Station,2.6382978723404253,2.5,11,steak,san diego,32.8734818,-117.2098312
+0,The Cheating Vegan,1.3333333333333333,4.5,2,vegan,tulsa,36.14707,-95.95887
+1,The Tropical,2.0,4.5,175,vegan,tulsa,36.0931396484375,-95.8856048583984
+2,Taza Fresh Peel,1.3333333333333333,5.0,1,vegan,tulsa,36.09155,-95.92042
+3,Ediblend Superfood Café,1.0,4.5,44,vegan,tulsa,36.1316439498764,-95.9628075095093
+4,Ediblend Superfood Cafe,1.0,4.5,9,vegan,tulsa,36.016242,-95.9041869
+0,Saltgrass Steak House,2.3666666666666667,4.0,43,steak,tulsa,36.0934177,-95.9236442
+1,Villa Ravenna,3.0,4.0,204,steak,tulsa,36.0889114445537,-95.9029690548778
+2,Charleston's,2.0,4.0,166,steak,tulsa,36.062962,-95.921446
+3,Ramseys Steak and Grill Delivery,2.0,4.0,53,steak,tulsa,36.1253600313195,-95.9050320687866
+4,Mahogany Prime Steakhouse,3.0,4.0,138,steak,tulsa,36.07529,-95.95642
+5,Celebrity Restaurant,3.0,4.0,58,steak,tulsa,36.1183,-95.92182
+6,Outback Steakhouse,2.0,4.0,47,steak,tulsa,36.09387,-95.92149
+7,Texas de Brazil,3.0,4.0,97,steak,tulsa,36.0626820087926,-95.8803634163246
+8,Charleston's,2.0,4.0,102,steak,tulsa,36.10853,-95.97628
+9,The Spudder Restaurant,3.0,3.5,102,steak,tulsa,36.0911199,-95.90309
+10,Redrock Canyon Grill,2.0,4.5,185,steak,tulsa,36.02005,-95.94931
+11,Waterfront Grill,2.0,3.0,152,steak,tulsa,36.023293,-95.957315
+12,The Ridge Grill,2.0,4.0,78,steak,tulsa,36.018825,-95.867274
+13,Cyrus Steakhouse Tulsa,3.0,3.0,37,steak,tulsa,36.114874,-95.892762
+14,Golden Saddle BBQ Steakhouse,1.0,4.0,28,steak,tulsa,36.1603660583496,-95.9026184082031
+15,Prhyme,3.0,4.0,137,steak,tulsa,36.15794,-95.99294
+16,Jamil's Restaurant,2.0,3.0,67,steak,tulsa,36.0902699,-95.93409
+17,Fleming's Prime Steakhouse & Wine Bar - Tulsa,3.0,4.0,116,steak,tulsa,36.1318251,-95.9646141
+18,Texas Roadhouse,2.0,3.5,75,steak,tulsa,36.061936,-95.852755
+19,Ti Amo Ristorante Italiano,2.0,4.0,100,steak,tulsa,36.1533356,-95.9936676
+20,Polo Grill,3.0,4.0,108,steak,tulsa,36.1321031795094,-95.9627977357842
+21,Ruth's Chris Steak House,4.0,3.5,82,steak,tulsa,36.0408665197788,-95.9624433517456
+22,Texas Roadhouse,2.0,4.5,23,steak,tulsa,36.0448859872856,-96.0054983437925
+23,Bluestone Steakhouse & Seafood,3.0,3.5,68,steak,tulsa,36.01812,-95.90498
+24,Shogun Steak House,2.0,3.0,42,steak,tulsa,36.065299987793,-95.8886337280273
+25,McGill's,2.3666666666666667,4.0,2,steak,tulsa,36.13306,-95.96884
+26,LongHorn Steakhouse,2.0,3.5,66,steak,tulsa,36.0612487792969,-95.8748245239258
+27,Daily Grill,2.0,3.5,106,steak,tulsa,36.15434,-95.99012
+28,Elements Steakhouse & Grill,2.3666666666666667,4.0,1,steak,tulsa,36.0428903996944,-95.9627283364534
+29,Logan's Roadhouse,2.0,2.5,42,steak,tulsa,36.0528431024515,-96.005603013153
+30,Outback Steakhouse,2.0,3.0,42,steak,tulsa,36.0603103637695,-95.8771743774414
+31,Outback Steakhouse,2.0,3.0,39,steak,tulsa,36.023106,-95.949508
+32,Santa Fe Cattle,2.0,3.0,30,steak,tulsa,35.986984,-96.013679
+0,Fig + Farro,2.0,3.5,187,vegan,minneapolis,44.948271,-93.297936
+1,The Herbivorous Butcher,2.0,4.5,154,vegan,minneapolis,44.9902328,-93.2539668
+2,Hard Times Café,1.0,4.0,296,vegan,minneapolis,44.969483,-93.246147
+3,Trio Plant-based,1.7272727272727273,4.5,37,vegan,minneapolis,44.9483994251992,-93.2871023728022
+4,Seed Cafe,1.7272727272727273,4.5,19,vegan,minneapolis,44.9490399,-93.32128
+5,Peoples Organic,2.0,3.5,64,vegan,minneapolis,44.94809,-93.298103
+6,Agra Culture,2.0,3.5,27,vegan,minneapolis,44.9488622,-93.2968751
+7,Truce,2.0,3.5,16,vegan,minneapolis,44.98428,-93.26888
+8,Crepe & Spoon,1.0,4.5,52,vegan,minneapolis,45.0102225826121,-93.2624539732933
+9,Truce,2.0,3.5,72,vegan,minneapolis,44.9447404,-93.2986539
+10,May Day Cafe,1.0,4.5,126,vegan,minneapolis,44.93987,-93.25281
+11,Galactic Pizza,2.0,4.0,275,vegan,minneapolis,44.9496574401855,-93.2876663208008
+12,Vegan East,1.7272727272727273,4.5,13,vegan,minneapolis,44.95871,-93.2876
+13,Pizza Nea,2.0,4.0,190,vegan,minneapolis,44.9879116,-93.2560607
+14,The Herbivorous Butcher Food Truck,1.7272727272727273,4.0,4,vegan,minneapolis,44.9902328,-93.2539668
+15,Reverie Mobile Kitchen,1.7272727272727273,4.5,10,vegan,minneapolis,44.88557,-93.20006
+0,P.S. Steak,2.68,4.5,13,steak,minneapolis,44.96739,-93.28712
+1,Burch Steak and Pizza Bar,3.0,4.0,493,steak,minneapolis,44.9630224,-93.2916601
+2,The Capital Grille,4.0,4.5,299,steak,minneapolis,44.9770069029009,-93.2759910821915
+3,Manny's Steakhouse,4.0,4.0,731,steak,minneapolis,44.97443,-93.27179
+4,Murray's,3.0,4.0,339,steak,minneapolis,44.97863,-93.27234
+5,Fogo de Chão Brazilian Steakhouse,3.0,4.0,686,steak,minneapolis,44.978150705349,-93.274335717446
+6,J.D. Hoyt's,3.0,4.0,179,steak,minneapolis,44.98441,-93.27306
+7,Ruth's Chris Steak House,3.0,4.0,172,steak,minneapolis,44.9730760884888,-93.2722395899796
+8,Monte Carlo,2.0,3.0,207,steak,minneapolis,44.98472,-93.27174
+9,Erte & The Peacock Lounge,2.0,4.0,188,steak,minneapolis,45.00116,-93.26337
+10,McCormick & Schmick's Seafood & Steaks,3.0,3.0,218,steak,minneapolis,44.9753271243272,-93.2741127738768
+11,CōV Edina,2.0,3.5,93,steak,minneapolis,44.87748,-93.323843
+12,Rare Steak & Sushi,2.0,3.0,110,steak,minneapolis,44.97592,-93.26883
+13,Jax Café,3.0,4.0,260,steak,minneapolis,45.00834,-93.26352
+14,Woolley's Kitchen & Bar,2.0,4.0,125,steak,minneapolis,44.86019,-93.22201
+15,Seven Steakhouse Sushi & Rooftop,3.0,2.5,90,steak,minneapolis,44.97801,-93.27547
+16,Lela,3.0,4.0,152,steak,minneapolis,44.8602599,-93.35378
+17,Best Steak House,2.0,3.5,29,steak,minneapolis,44.90364,-93.2777
+18,McCormick & Schmick's Seafood & Steaks,3.0,2.5,144,steak,minneapolis,44.8776392166222,-93.3219346404076
+19,Pittsburgh Blue,3.0,3.5,235,steak,minneapolis,44.8764849,-93.3198339
+20,"Kincaid's Fish, Chop & Steakhouse",3.0,3.5,129,steak,minneapolis,44.853731,-93.356216
+21,6300 Steakhouse,2.68,4.0,4,steak,minneapolis,45.068185,-93.304506
+22,Bloomington ChopHouse,3.0,3.5,64,steak,minneapolis,44.856479,-93.330275
+23,Outback Steakhouse,2.0,3.0,97,steak,minneapolis,44.86083,-93.25552
+24,Osaka,2.0,3.0,102,steak,minneapolis,44.8610382080078,-93.3134078979492
+25,Timber Lodge Steakhouse,2.0,3.0,63,steak,minneapolis,44.8590381,-93.3019249
+26,Tony Roma's,2.0,3.0,99,steak,minneapolis,44.853472,-93.242924
